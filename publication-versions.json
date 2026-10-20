@@ -14,7 +14,8 @@
       "size": 738104,
       "pages": 13,
       "verification": "Publisher or coauthor final PDF; title page visually reviewed; every page parsed successfully.",
-      "retrieved": "2026-10-20"
+      "retrieved": "2026-10-20",
+      "version": "version-of-record"
     },
     {
       "id": 12,
@@ -28,7 +29,8 @@
       "size": 9079247,
       "pages": 31,
       "verification": "Publisher or coauthor final PDF; title page visually reviewed; every page parsed successfully.",
-      "retrieved": "2026-10-20"
+      "retrieved": "2026-10-20",
+      "version": "version-of-record"
     },
     {
       "id": 19,
@@ -42,7 +44,8 @@
       "size": 13728990,
       "pages": 9,
       "verification": "Publisher or coauthor final PDF; title page visually reviewed; every page parsed successfully.",
-      "retrieved": "2026-10-20"
+      "retrieved": "2026-10-20",
+      "version": "version-of-record"
     },
     {
       "id": 20,
@@ -56,7 +59,8 @@
       "size": 864214,
       "pages": 7,
       "verification": "Publisher or coauthor final PDF; title page visually reviewed; every page parsed successfully.",
-      "retrieved": "2026-10-20"
+      "retrieved": "2026-10-20",
+      "version": "version-of-record"
     },
     {
       "id": 27,
@@ -70,7 +74,8 @@
       "size": 527217,
       "pages": 17,
       "verification": "Publisher or coauthor final PDF; title page visually reviewed; every page parsed successfully.",
-      "retrieved": "2026-10-20"
+      "retrieved": "2026-10-20",
+      "version": "version-of-record"
     },
     {
       "id": 31,
@@ -84,7 +89,8 @@
       "size": 1557154,
       "pages": 37,
       "verification": "Publisher or coauthor final PDF; title page visually reviewed; every page parsed successfully.",
-      "retrieved": "2026-10-20"
+      "retrieved": "2026-10-20",
+      "version": "version-of-record"
     },
     {
       "id": 49,
@@ -98,7 +104,8 @@
       "size": 306302,
       "pages": 9,
       "verification": "Publisher or coauthor final PDF; title page visually reviewed; every page parsed successfully.",
-      "retrieved": "2026-10-20"
+      "retrieved": "2026-10-20",
+      "version": "version-of-record"
     },
     {
       "id": 8,
@@ -112,7 +119,8 @@
       "size": 465592,
       "pages": 21,
       "verification": "Journal title page visually reviewed; DOI, authors, issue and pagination matched; every page parsed successfully.",
-      "retrieved": "2026-10-20"
+      "retrieved": "2026-10-20",
+      "version": "version-of-record"
     },
     {
       "id": 13,
@@ -126,7 +134,8 @@
       "size": 1532664,
       "pages": 51,
       "verification": "Journal title page visually reviewed; DOI, authors, issue and pagination matched; every page parsed successfully.",
-      "retrieved": "2026-10-20"
+      "retrieved": "2026-10-20",
+      "version": "version-of-record"
     },
     {
       "id": 6,
@@ -232,6 +241,351 @@
       "verification": "User-supplied publisher file; title page visually reviewed; authors and publication identity matched; every page parsed successfully.",
       "retrieved": "2026-10-20",
       "version": "publisher-supplement"
+    },
+    {
+      "id": 30,
+      "title": "How Much to Save? Decision Costs and Retirement Plan Participation",
+      "doi": "10.1016/j.jpubeco.2020.104247",
+      "source_url": "https://doi.org/10.1016/j.jpubeco.2020.104247",
+      "path": "pdfs/how-much-to-save.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/how-much-to-save.pdf",
+      "sha": "b2da7300c8b424060cf85b70667ee7cdbeb0a40a",
+      "sha256": "542c6d1d0937f54c0289fb73ac470beae225053f89bffc4d94c8d61402dd7776",
+      "size": 488709,
+      "pages": 10,
+      "verification": "Final journal/proceedings identity and title pages visually checked; every page parsed; PDF signature validated. Original user downloads preserved.",
+      "retrieved": "2026-10-20",
+      "version": "version-of-record"
+    },
+    {
+      "id": 30,
+      "title": "How Much to Save? Decision Costs and Retirement Plan Participation \u2014 Online Appendix",
+      "doi": "10.1016/j.jpubeco.2020.104247",
+      "source_url": "https://doi.org/10.1016/j.jpubeco.2020.104247",
+      "path": "pdfs/how-much-to-save-appendix.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/how-much-to-save-appendix.pdf",
+      "sha": "44a77212a8925f433f757ea2a1df438d91741a10",
+      "sha256": "cb4659c2e1727f7e995a85989b94b6d47d0a85cb402a85639db8cdf3e156e742",
+      "size": 289265,
+      "pages": 9,
+      "verification": "Final journal/proceedings identity and title pages visually checked; every page parsed; PDF signature validated. Original user downloads preserved.",
+      "retrieved": "2026-10-20",
+      "version": "publisher-supplement"
+    },
+    {
+      "id": 24,
+      "title": "Tax Filing and Take-Up: Experimental Evidence on Tax Preparation Outreach and EITC Participation",
+      "doi": "10.1016/j.jpubeco.2021.104550",
+      "source_url": "https://doi.org/10.1016/j.jpubeco.2021.104550",
+      "path": "pdfs/tax-filing-and-take-up.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/tax-filing-and-take-up.pdf",
+      "sha": "42875c5d2314aba06220e10ff115c0e110d3a988",
+      "sha256": "fab671951d1e64ef7075d67fa240040f12cae390027c457f5bead8e5c7d76e1e",
+      "size": 1254224,
+      "pages": 9,
+      "verification": "Final journal/proceedings identity and title pages visually checked; every page parsed; PDF signature validated. Original user downloads preserved.",
+      "retrieved": "2026-10-20",
+      "version": "version-of-record"
+    },
+    {
+      "id": 24,
+      "title": "Tax Filing and Take-Up: Experimental Evidence on Tax Preparation Outreach and EITC Participation \u2014 Online Appendix",
+      "doi": "10.1016/j.jpubeco.2021.104550",
+      "source_url": "https://doi.org/10.1016/j.jpubeco.2021.104550",
+      "path": "pdfs/tax-filing-and-take-up-appendix.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/tax-filing-and-take-up-appendix.pdf",
+      "sha": "47b46782e19b011c41a8e27e54af17e580b8c23d",
+      "sha256": "4c4b2a7366ddea704becdf541d82e4edd76a16d302eefcb91b15c216bac5401d",
+      "size": 2479587,
+      "pages": 19,
+      "verification": "Final journal/proceedings identity and title pages visually checked; every page parsed; PDF signature validated. Original user downloads preserved.",
+      "retrieved": "2026-10-20",
+      "version": "publisher-supplement"
+    },
+    {
+      "id": 26,
+      "title": "Issuance and Incidence: SNAP Benefit Cycles and Grocery Prices \u2014 Online Appendix",
+      "doi": "10.1257/pol.20190777",
+      "source_url": "https://doi.org/10.1257/pol.20190777",
+      "path": "pdfs/issuance-and-incidence-appendix.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/issuance-and-incidence-appendix.pdf",
+      "sha": "cf1df5d4d2c1ac38dfa73364dc2e72b14e8c48ae",
+      "sha256": "e78807182f446d2f96c315cd66355948181fe50051bb33fd20079709bd7ed215",
+      "size": 435896,
+      "pages": 23,
+      "verification": "Final journal/proceedings identity and title pages visually checked; every page parsed; PDF signature validated. Original user downloads preserved.",
+      "retrieved": "2026-10-20",
+      "version": "publisher-supplement"
+    },
+    {
+      "id": 44,
+      "title": "Consumer Borrowing After Payday Loan Bans",
+      "doi": "10.1086/686033",
+      "source_url": "https://doi.org/10.1086/686033",
+      "path": "pdfs/consumer-borrowing-payday-loan-bans.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/consumer-borrowing-payday-loan-bans.pdf",
+      "sha": "8d69211075fd5d86433b64f5ab92b23e14ecfc09",
+      "sha256": "8057a8edb5c19cfaa2d3caa3f013995814e056a5b1998d4351617f8ec36672a1",
+      "size": 740628,
+      "pages": 35,
+      "verification": "Final journal/proceedings identity and title pages visually checked; every page parsed; PDF signature validated. Original user downloads preserved.",
+      "retrieved": "2026-10-20",
+      "version": "version-of-record"
+    },
+    {
+      "id": 25,
+      "title": "Who Benefits from the Child Tax Credit?",
+      "doi": "10.1086/717919",
+      "source_url": "https://doi.org/10.1086/717919",
+      "path": "pdfs/who-benefits-child-tax-credit.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/who-benefits-child-tax-credit.pdf",
+      "sha": "98dfb0fa93018319eb8027d65ab056ae334fd830",
+      "sha256": "0c193d9c53ee8f08e3660c2c8a9982427e887542d0512cbd1cbcee7e239cbe89",
+      "size": 310441,
+      "pages": 25,
+      "verification": "Final journal/proceedings identity and title pages visually checked; every page parsed; PDF signature validated. Original user downloads preserved.",
+      "retrieved": "2026-10-20",
+      "version": "version-of-record"
+    },
+    {
+      "id": 46,
+      "title": "Measuring Judicial Ideology Using Law Clerk Hiring",
+      "doi": "10.1093/aler/ahw013",
+      "source_url": "https://doi.org/10.1093/aler/ahw013",
+      "path": "pdfs/measuring-judicial-ideology.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/measuring-judicial-ideology.pdf",
+      "sha": "b139d2745741f9dee7bb68d37999e1baa4dd5f3d",
+      "sha256": "63d03e5bbe2e6dc44710cc8554df141966ae77166f179a9f8663e6dc1918ece2",
+      "size": 497914,
+      "pages": 33,
+      "verification": "Final journal/proceedings identity and title pages visually checked; every page parsed; PDF signature validated. Original user downloads preserved.",
+      "retrieved": "2026-10-20",
+      "version": "version-of-record"
+    },
+    {
+      "id": 47,
+      "title": "The Political Ideologies of Law Clerks",
+      "doi": "10.1093/aler/ahw012",
+      "source_url": "https://doi.org/10.1093/aler/ahw012",
+      "path": "pdfs/political-ideologies-of-law-clerks.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/political-ideologies-of-law-clerks.pdf",
+      "sha": "458e50dd08983c0c1b2e803ac778af54a78144a2",
+      "sha256": "25eda3a8e8d2e58eb74e852862166998017e0d444ec7be57e56a764a16fee00f",
+      "size": 1196420,
+      "pages": 33,
+      "verification": "Final journal/proceedings identity and title pages visually checked; every page parsed; PDF signature validated. Original user downloads preserved.",
+      "retrieved": "2026-10-20",
+      "version": "version-of-record"
+    },
+    {
+      "id": 34,
+      "title": "Legal Rasputins? Law Clerk Influence on Voting at the U.S. Supreme Court",
+      "doi": "10.1093/jleo/ewy024",
+      "source_url": "https://doi.org/10.1093/jleo/ewy024",
+      "path": "pdfs/legal-rasputins.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/legal-rasputins.pdf",
+      "sha": "2ccabe4acde721a119e2a2f1dbf7a9fb288d2b32",
+      "sha256": "1a6ed3ba9f418db93388d204c8e6a0c54ed95ea1bba7d3e0843b8e107078e728",
+      "size": 486071,
+      "pages": 36,
+      "verification": "Final journal/proceedings identity and title pages visually checked; every page parsed; PDF signature validated. Original user downloads preserved.",
+      "retrieved": "2026-10-20",
+      "version": "version-of-record"
+    },
+    {
+      "id": 34,
+      "title": "Legal Rasputins? Law Clerk Influence on Voting at the U.S. Supreme Court \u2014 Online Appendix",
+      "doi": "10.1093/jleo/ewy024",
+      "source_url": "https://doi.org/10.1093/jleo/ewy024",
+      "path": "pdfs/legal-rasputins-appendix.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/legal-rasputins-appendix.pdf",
+      "sha": "668fa7291e67a594035f38a740e2321208b5ed29",
+      "sha256": "3dd529b7c417125dd3db0fcd818ed2d6150fa5d33171461088e4838a65de2df6",
+      "size": 467649,
+      "pages": 17,
+      "verification": "Final journal/proceedings identity and title pages visually checked; every page parsed; PDF signature validated. Original user downloads preserved.",
+      "retrieved": "2026-10-20",
+      "version": "publisher-supplement"
+    },
+    {
+      "id": 45,
+      "title": "Defaults, Mandates, and Taxes: Policy Design with Active and Passive Decision-Makers",
+      "doi": "10.1093/aler/ahw007",
+      "source_url": "https://doi.org/10.1093/aler/ahw007",
+      "path": "pdfs/defaults-mandates-and-taxes.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/defaults-mandates-and-taxes.pdf",
+      "sha": "7957e3e501e70dbad087db8a060c0985872d507f",
+      "sha256": "2b13fb433e74caeec0c3275829ea94917e9d38cdd93975b04636af1a3f4eaab5",
+      "size": 982662,
+      "pages": 25,
+      "verification": "Final journal/proceedings identity and title pages visually checked; every page parsed; PDF signature validated. Original user downloads preserved.",
+      "retrieved": "2026-10-20",
+      "version": "version-of-record"
+    },
+    {
+      "id": 26,
+      "title": "Issuance and Incidence: SNAP Benefit Cycles and Grocery Prices",
+      "doi": "10.1257/pol.20190777",
+      "source_url": "https://doi.org/10.1257/pol.20190777",
+      "path": "pdfs/issuance-and-incidence.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/issuance-and-incidence.pdf",
+      "sha": "fe83a8bfb2be2365c9fc36084aff3a152a35dc0d",
+      "sha256": "ffaf3d9a38225367ce6ab1a0dffe88401f21879e60ab49c594437e068775e359",
+      "size": 809411,
+      "pages": 27,
+      "verification": "Final journal/proceedings identity and title pages visually checked; every page parsed; PDF signature validated. Original user downloads preserved.",
+      "retrieved": "2026-10-20",
+      "version": "version-of-record"
+    },
+    {
+      "id": 33,
+      "title": "Does Informing Employees About Tax Benefits Increase Take-Up? Evidence from EITC Notification Laws \u2014 Online Appendix",
+      "doi": "10.17310/ntj.2019.2.04",
+      "source_url": "https://doi.org/10.17310/ntj.2019.2.04",
+      "path": "pdfs/eitc-notification-laws-appendix.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/eitc-notification-laws-appendix.pdf",
+      "sha": "42da35d50cb441756d7ccde157c2a360084fef6b",
+      "sha256": "7aa9ebc3e649677cfa1d8378d3edda5a319d967f0069a6dd44c1c149b2b6018d",
+      "size": 167377,
+      "pages": 8,
+      "verification": "Final journal/proceedings identity and title pages visually checked; every page parsed; PDF signature validated. Original user downloads preserved.",
+      "retrieved": "2026-10-20",
+      "version": "publisher-supplement"
+    },
+    {
+      "id": 36,
+      "title": "Raising the Stakes: Experimental Evidence on the Robustness of Taxpayer Mistakes",
+      "doi": "10.17310/ntj.2018.2.01",
+      "source_url": "https://doi.org/10.17310/ntj.2018.2.01",
+      "path": "pdfs/raising-the-stakes.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/raising-the-stakes.pdf",
+      "sha": "10b39a9a1cfa6603490e9b55cd6a57af9f2e785e",
+      "sha256": "41da34bf43544ee30b34ad746d4e0def406cd74e46911e4a40019bcc3cc81461",
+      "size": 603521,
+      "pages": 30,
+      "verification": "Final journal/proceedings identity and title pages visually checked; every page parsed; PDF signature validated. Original user downloads preserved.",
+      "retrieved": "2026-10-20",
+      "version": "version-of-record"
+    },
+    {
+      "id": 33,
+      "title": "Does Informing Employees About Tax Benefits Increase Take-Up? Evidence from EITC Notification Laws",
+      "doi": "10.17310/ntj.2019.2.04",
+      "source_url": "https://doi.org/10.17310/ntj.2019.2.04",
+      "path": "pdfs/eitc-notification-laws.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/eitc-notification-laws.pdf",
+      "sha": "d10614dbb20477ce0e0658398381eaea1d6799cf",
+      "sha256": "59d472abb70047a12b5de3916d732fe8e08aac6cd0e9c36728bb28c81f10366f",
+      "size": 2974406,
+      "pages": 38,
+      "verification": "Final journal/proceedings identity and title pages visually checked; every page parsed; PDF signature validated. Original user downloads preserved.",
+      "retrieved": "2026-10-20",
+      "version": "version-of-record"
+    },
+    {
+      "id": 32,
+      "title": "Communicating Tax Penalties to Delinquent Taxpayers: Evidence from a Field Experiment",
+      "doi": "10.17310/ntj.2020.2.02",
+      "source_url": "https://doi.org/10.17310/ntj.2020.2.02",
+      "path": "pdfs/communicating-tax-penalties.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/communicating-tax-penalties.pdf",
+      "sha": "d29ca37324a0e04bf880ab8c40d0faaa073a9098",
+      "sha256": "3c013f715a902b73a202bdcb10628dc9f40deae060ac3e389cdd2bf770d992ef",
+      "size": 1890411,
+      "pages": 30,
+      "verification": "Final journal/proceedings identity and title pages visually checked; every page parsed; PDF signature validated. Original user downloads preserved.",
+      "retrieved": "2026-10-20",
+      "version": "version-of-record"
+    },
+    {
+      "id": 29,
+      "title": "Sharp Lines and Sliding Scales in Tax Law",
+      "doi": null,
+      "source_url": "https://repository.law.umich.edu/facarticles/2251/",
+      "path": "pdfs/sharp-lines-sliding-scales.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/sharp-lines-sliding-scales.pdf",
+      "sha": "434504155bfc0f4d00116db55bce3b203cc57b1c",
+      "sha256": "5eae947963ab75f2513f45e589d3a6a8ae2939a74c099283c88c01ce276868f2",
+      "size": 3973039,
+      "pages": 67,
+      "verification": "Final journal/proceedings identity and title pages visually checked; every page parsed; PDF signature validated. Original user downloads preserved.",
+      "retrieved": "2026-10-20",
+      "version": "version-of-record"
+    },
+    {
+      "id": 35,
+      "title": "Tax Benefit Complexity and Take-Up: Lessons from the Earned Income Tax Credit.",
+      "doi": null,
+      "source_url": "https://heinonline.org/HOL/Page?handle=hein.journals/taxlr72&div=7",
+      "path": "pdfs/tax-benefit-complexity.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/tax-benefit-complexity.pdf",
+      "sha": "703bbcb95300eac2fe9914b8a5c7d5e60fbd9975",
+      "sha256": "3b8193b663b348e827dccedd4f1f6efe864afb8bad63b4bf5151c6ed64526cab",
+      "size": 3361275,
+      "pages": 53,
+      "verification": "Final journal/proceedings identity and title pages visually checked; every page parsed; PDF signature validated. Original user downloads preserved.",
+      "retrieved": "2026-10-20",
+      "version": "version-of-record"
+    },
+    {
+      "id": 37,
+      "title": "Beyond Head of Household: Rethinking the Taxation of Single Parents",
+      "doi": null,
+      "source_url": "https://heinonline.org/HOL/Page?handle=hein.journals/taxlr71&div=13",
+      "path": "pdfs/beyond-head-of-household.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/beyond-head-of-household.pdf",
+      "sha": "a2ea29357c0f3b860f492778ec3619707355d716",
+      "sha256": "1c1a711180236867b7691f8bfb182f3649b15fec62f031329d7244ad609825df",
+      "size": 2689750,
+      "pages": 49,
+      "verification": "Final journal/proceedings identity and title pages visually checked; every page parsed; PDF signature validated. Original user downloads preserved.",
+      "retrieved": "2026-10-20",
+      "version": "version-of-record"
+    },
+    {
+      "id": 39,
+      "title": "The Effects of Pretrial Detention on Conviction, Future Crime, and Employment: Evidence from Randomly Assigned Judges",
+      "doi": "10.1257/aer.20161503",
+      "source_url": "https://doi.org/10.1257/aer.20161503",
+      "path": "pdfs/effects-of-pretrial-detention.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/effects-of-pretrial-detention.pdf",
+      "sha": "0b79894a2ab9d60519fd9a8989a32763477bc8df",
+      "sha256": "c0431719121b65e6b5a0ec858639b0dfe5f672ab5f8536ee314c2c58b3369cfd",
+      "size": 664304,
+      "pages": 40,
+      "verification": "Final journal/proceedings identity and title pages visually checked; every page parsed; PDF signature validated. Original user downloads preserved.",
+      "retrieved": "2026-10-20",
+      "version": "version-of-record"
+    },
+    {
+      "id": 43,
+      "title": "Retirement Contribution Rate Nudges and Plan Participation: Evidence from a Field Experiment",
+      "doi": "10.1257/aer.p20171059",
+      "source_url": "https://doi.org/10.1257/aer.p20171059",
+      "path": "pdfs/retirement-contribution-rate-nudges.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/retirement-contribution-rate-nudges.pdf",
+      "sha": "71096fe95b7cbe7a53ac8a208edca076823be93a",
+      "sha256": "fbd137e67ce48efaf2e02528040f8d70d0b5f06a03da1a8f7d0a31a8a201f74b",
+      "size": 518157,
+      "pages": 6,
+      "verification": "Final journal/proceedings identity and title pages visually checked; every page parsed; PDF signature validated. Original user downloads preserved.",
+      "retrieved": "2026-10-20",
+      "version": "version-of-record"
+    },
+    {
+      "id": 39,
+      "title": "The Effects of Pretrial Detention on Conviction, Future Crime, and Employment: Evidence from Randomly Assigned Judges \u2014 Online Appendix",
+      "doi": "10.1257/aer.20161503",
+      "source_url": "https://doi.org/10.1257/aer.20161503",
+      "path": "pdfs/effects-of-pretrial-detention-appendix.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/effects-of-pretrial-detention-appendix.pdf",
+      "sha": "ecf6082c077314e58b733fd5d2724a7984449319",
+      "sha256": "d2420e3e121cbc8ed4819e75aed31f5cede50aa5947d1156125c62c8bfdfa06c",
+      "size": 4204389,
+      "pages": 39,
+      "verification": "Final journal/proceedings identity and title pages visually checked; every page parsed; PDF signature validated. Original user downloads preserved.",
+      "retrieved": "2026-10-20",
+      "version": "publisher-supplement"
     }
   ],
   "publication_audit": [
@@ -247,7 +601,7 @@
       "title": "Hidden Errors in Big Data: The Case of Property Records",
       "doi": "10.1609/aies.v9i4.43314",
       "citation_note": "",
-      "status": "Verified final PDF staged",
+      "status": "Verified final PDF",
       "verified_pdf": {
         "path": "pdfs/hidden-errors-property-records.pdf",
         "doi": "10.1609/aies.v9i4.43314",
@@ -269,7 +623,7 @@
       "title": "Tradeoffs are Domain Dependent: Improving Accuracy and Fairness in Property Tax Assessments",
       "doi": "10.1145/3805689.3812318",
       "citation_note": "",
-      "status": "Verified final PDF uploaded; deployment verification pending",
+      "status": "Verified final PDF",
       "verified_pdf": {
         "path": "pdfs/property-tax-assessment-tradeoffs.pdf",
         "doi": "10.1145/3805689.3812318",
@@ -314,7 +668,7 @@
       "title": "How Do State Child Tax Credits Affect Employment and Poverty?",
       "doi": "10.1257/pandp.20261088",
       "citation_note": "",
-      "status": "Verified final PDF uploaded; deployment verification pending",
+      "status": "Verified final PDF",
       "verified_pdf": {
         "path": "pdfs/state-child-tax-credits.pdf",
         "doi": "10.1257/pandp.20261088",
@@ -336,7 +690,7 @@
       "title": "Optimal Income Tax Deductions for Mixed Business and Personal Expenditures",
       "doi": "10.1016/j.jpubeco.2025.105544",
       "citation_note": "",
-      "status": "Verified final PDF uploaded; deployment verification pending",
+      "status": "Verified final PDF",
       "verified_pdf": {
         "path": "pdfs/optimal-income-tax-deductions.pdf",
         "doi": "10.1016/j.jpubeco.2025.105544",
@@ -372,7 +726,7 @@
       "title": "The Claiming of Children on U.S. Tax Returns",
       "doi": null,
       "citation_note": "",
-      "status": "Verified final PDF staged",
+      "status": "Verified final PDF",
       "verified_pdf": {
         "path": "pdfs/claiming-of-children.pdf",
         "doi": "10.1086/736708",
@@ -436,7 +790,7 @@
       "title": "Near-Exponential Savings for Population Mean Estimation with Active Learning",
       "doi": "10.52202/085713-4891",
       "citation_note": "",
-      "status": "Verified final PDF staged",
+      "status": "Verified final PDF",
       "verified_pdf": {
         "path": "pdfs/near-exponential-mean-estimation.pdf",
         "doi": "10.52202/085713-4891",
@@ -462,7 +816,7 @@
       "title": "Measuring and Mitigating Racial Disparities in Tax Audits",
       "doi": "10.1093/qje/qjae027",
       "citation_note": "",
-      "status": "Verified final PDF staged",
+      "status": "Verified final PDF",
       "verified_pdf": {
         "path": "pdfs/tax-audit-disparities.pdf",
         "doi": "10.1093/qje/qjae027",
@@ -526,7 +880,7 @@
       "title": "Estimating and Implementing Conventional Fairness Metrics With Probabilistic Protected Features",
       "doi": "10.1109/SaTML59370.2024.00016",
       "citation_note": "Stanford-hosted candidate is arXiv v1, not the IEEE proceedings version.",
-      "status": "Verified final PDF uploaded; deployment verification pending",
+      "status": "Verified final PDF",
       "verified_pdf": {
         "path": "pdfs/fairness-metrics-probabilistic-protected-features.pdf",
         "doi": "10.1109/SaTML59370.2024.00016",
@@ -562,7 +916,7 @@
       "title": "Integrating Reward Maximization and Population Estimation: Sequential Decision-Making for Internal Revenue Service Audit Selection",
       "doi": null,
       "citation_note": "",
-      "status": "Verified final PDF staged",
+      "status": "Verified final PDF",
       "verified_pdf": {
         "path": "pdfs/irs-audit-selection.pdf",
         "doi": "10.1609/aaai.v37i4.25637",
@@ -584,7 +938,7 @@
       "title": "Entropy Regularization for Population Estimation",
       "doi": "10.1609/aaai.v37i10.26438",
       "citation_note": "",
-      "status": "Verified final PDF staged",
+      "status": "Verified final PDF",
       "verified_pdf": {
         "path": "pdfs/entropy-regularization.pdf",
         "doi": "10.1609/aaai.v37i10.26438",
@@ -648,7 +1002,23 @@
       "title": "Tax Filing and Take-Up: Experimental Evidence on Tax Preparation Outreach and EITC Participation",
       "doi": "10.1016/j.jpubeco.2021.104550",
       "citation_note": "Published title ends with benefit claiming (not EITC Participation).",
-      "status": "Final publisher PDF needed"
+      "status": "Verified final PDF",
+      "verified_pdf": {
+        "path": "pdfs/tax-filing-and-take-up.pdf",
+        "doi": "10.1016/j.jpubeco.2021.104550",
+        "source_url": "https://doi.org/10.1016/j.jpubeco.2021.104550",
+        "sha": "42875c5d2314aba06220e10ff115c0e110d3a988",
+        "sha256": "fab671951d1e64ef7075d67fa240040f12cae390027c457f5bead8e5c7d76e1e",
+        "pages": 9
+      },
+      "verified_supplements": [
+        {
+          "path": "pdfs/tax-filing-and-take-up-appendix.pdf",
+          "source_url": "https://doi.org/10.1016/j.jpubeco.2021.104550",
+          "sha256": "4c4b2a7366ddea704becdf541d82e4edd76a16d302eefcb91b15c216bac5401d",
+          "pages": 19
+        }
+      ]
     },
     {
       "id": 25,
@@ -662,7 +1032,15 @@
       "title": "Who Benefits from the Child Tax Credit?",
       "doi": "10.1086/717919",
       "citation_note": "",
-      "status": "Final publisher PDF needed"
+      "status": "Verified final PDF",
+      "verified_pdf": {
+        "path": "pdfs/who-benefits-child-tax-credit.pdf",
+        "doi": "10.1086/717919",
+        "source_url": "https://doi.org/10.1086/717919",
+        "sha": "98dfb0fa93018319eb8027d65ab056ae334fd830",
+        "sha256": "0c193d9c53ee8f08e3660c2c8a9982427e887542d0512cbd1cbcee7e239cbe89",
+        "pages": 25
+      }
     },
     {
       "id": 26,
@@ -676,7 +1054,23 @@
       "title": "Issuance and Incidence: SNAP Benefit Cycles and Grocery Prices",
       "doi": "10.1257/pol.20190777",
       "citation_note": "",
-      "status": "Final publisher PDF needed"
+      "status": "Verified final PDF",
+      "verified_supplements": [
+        {
+          "path": "pdfs/issuance-and-incidence-appendix.pdf",
+          "source_url": "https://doi.org/10.1257/pol.20190777",
+          "sha256": "e78807182f446d2f96c315cd66355948181fe50051bb33fd20079709bd7ed215",
+          "pages": 23
+        }
+      ],
+      "verified_pdf": {
+        "path": "pdfs/issuance-and-incidence.pdf",
+        "doi": "10.1257/pol.20190777",
+        "source_url": "https://doi.org/10.1257/pol.20190777",
+        "sha": "fe83a8bfb2be2365c9fc36084aff3a152a35dc0d",
+        "sha256": "ffaf3d9a38225367ce6ab1a0dffe88401f21879e60ab49c594437e068775e359",
+        "pages": 27
+      }
     },
     {
       "id": 27,
@@ -690,7 +1084,7 @@
       "title": "Optimal Defaults with Normative Ambiguity",
       "doi": "10.1162/rest_a_00945",
       "citation_note": "",
-      "status": "Verified final PDF staged",
+      "status": "Verified final PDF",
       "verified_pdf": {
         "path": "pdfs/optimal-defaults.pdf",
         "doi": "10.1162/rest_a_00945",
@@ -716,7 +1110,7 @@
       "title": "Health Insurance and Mortality: Experimental Evidence from Taxpayer Outreach",
       "doi": "10.1093/qje/qjaa029",
       "citation_note": "",
-      "status": "Verified final PDF uploaded; deployment verification pending",
+      "status": "Verified final PDF",
       "verified_pdf": {
         "path": "pdfs/health-insurance-and-mortality.pdf",
         "doi": "10.1093/qje/qjaa029",
@@ -738,7 +1132,15 @@
       "title": "Sharp Lines and Sliding Scales in Tax Law",
       "doi": null,
       "citation_note": "Michigan repository has a final PDF candidate but automated retrieval is blocked: https://repository.law.umich.edu/facarticles/2251/",
-      "status": "Final publisher PDF needed"
+      "status": "Verified final PDF",
+      "verified_pdf": {
+        "path": "pdfs/sharp-lines-sliding-scales.pdf",
+        "doi": null,
+        "source_url": "https://repository.law.umich.edu/facarticles/2251/",
+        "sha": "434504155bfc0f4d00116db55bce3b203cc57b1c",
+        "sha256": "5eae947963ab75f2513f45e589d3a6a8ae2939a74c099283c88c01ce276868f2",
+        "pages": 67
+      }
     },
     {
       "id": 30,
@@ -752,7 +1154,23 @@
       "title": "How Much to Save? Decision Costs and Retirement Plan Participation",
       "doi": "10.1016/j.jpubeco.2020.104247",
       "citation_note": "",
-      "status": "Final publisher PDF needed"
+      "status": "Verified final PDF",
+      "verified_pdf": {
+        "path": "pdfs/how-much-to-save.pdf",
+        "doi": "10.1016/j.jpubeco.2020.104247",
+        "source_url": "https://doi.org/10.1016/j.jpubeco.2020.104247",
+        "sha": "b2da7300c8b424060cf85b70667ee7cdbeb0a40a",
+        "sha256": "542c6d1d0937f54c0289fb73ac470beae225053f89bffc4d94c8d61402dd7776",
+        "pages": 10
+      },
+      "verified_supplements": [
+        {
+          "path": "pdfs/how-much-to-save-appendix.pdf",
+          "source_url": "https://doi.org/10.1016/j.jpubeco.2020.104247",
+          "sha256": "cb4659c2e1727f7e995a85989b94b6d47d0a85cb402a85639db8cdf3e156e742",
+          "pages": 9
+        }
+      ]
     },
     {
       "id": 31,
@@ -770,7 +1188,7 @@
       "title": "Revealed Preference Analysis with Framing Effects",
       "doi": "10.1086/706860",
       "citation_note": "",
-      "status": "Verified final PDF staged",
+      "status": "Verified final PDF",
       "verified_pdf": {
         "path": "pdfs/revealed-preference-framing-effects.pdf",
         "doi": "10.1086/706860",
@@ -792,7 +1210,15 @@
       "title": "Communicating Tax Penalties to Delinquent Taxpayers: Evidence from a Field Experiment",
       "doi": "10.17310/ntj.2020.2.02",
       "citation_note": "",
-      "status": "Final publisher PDF needed"
+      "status": "Verified final PDF",
+      "verified_pdf": {
+        "path": "pdfs/communicating-tax-penalties.pdf",
+        "doi": "10.17310/ntj.2020.2.02",
+        "source_url": "https://doi.org/10.17310/ntj.2020.2.02",
+        "sha": "d29ca37324a0e04bf880ab8c40d0faaa073a9098",
+        "sha256": "3c013f715a902b73a202bdcb10628dc9f40deae060ac3e389cdd2bf770d992ef",
+        "pages": 30
+      }
     },
     {
       "id": 33,
@@ -810,7 +1236,23 @@
       "title": "Does Informing Employees About Tax Benefits Increase Take-Up? Evidence from EITC Notification Laws",
       "doi": "10.17310/ntj.2019.2.04",
       "citation_note": "",
-      "status": "Final publisher PDF needed"
+      "status": "Verified final PDF",
+      "verified_supplements": [
+        {
+          "path": "pdfs/eitc-notification-laws-appendix.pdf",
+          "source_url": "https://doi.org/10.17310/ntj.2019.2.04",
+          "sha256": "7aa9ebc3e649677cfa1d8378d3edda5a319d967f0069a6dd44c1c149b2b6018d",
+          "pages": 8
+        }
+      ],
+      "verified_pdf": {
+        "path": "pdfs/eitc-notification-laws.pdf",
+        "doi": "10.17310/ntj.2019.2.04",
+        "source_url": "https://doi.org/10.17310/ntj.2019.2.04",
+        "sha": "d10614dbb20477ce0e0658398381eaea1d6799cf",
+        "sha256": "59d472abb70047a12b5de3916d732fe8e08aac6cd0e9c36728bb28c81f10366f",
+        "pages": 38
+      }
     },
     {
       "id": 34,
@@ -824,7 +1266,23 @@
       "title": "Legal Rasputins? Law Clerk Influence on Voting at the U.S. Supreme Court",
       "doi": "10.1093/jleo/ewy024",
       "citation_note": "",
-      "status": "Final publisher PDF needed"
+      "status": "Verified final PDF",
+      "verified_pdf": {
+        "path": "pdfs/legal-rasputins.pdf",
+        "doi": "10.1093/jleo/ewy024",
+        "source_url": "https://doi.org/10.1093/jleo/ewy024",
+        "sha": "2ccabe4acde721a119e2a2f1dbf7a9fb288d2b32",
+        "sha256": "1a6ed3ba9f418db93388d204c8e6a0c54ed95ea1bba7d3e0843b8e107078e728",
+        "pages": 36
+      },
+      "verified_supplements": [
+        {
+          "path": "pdfs/legal-rasputins-appendix.pdf",
+          "source_url": "https://doi.org/10.1093/jleo/ewy024",
+          "sha256": "3dd529b7c417125dd3db0fcd818ed2d6150fa5d33171461088e4838a65de2df6",
+          "pages": 17
+        }
+      ]
     },
     {
       "id": 35,
@@ -838,7 +1296,15 @@
       "title": "Tax Benefit Complexity and Take-Up: Lessons from the Earned Income Tax Credit.",
       "doi": null,
       "citation_note": "",
-      "status": "Final publisher PDF needed"
+      "status": "Verified final PDF",
+      "verified_pdf": {
+        "path": "pdfs/tax-benefit-complexity.pdf",
+        "doi": null,
+        "source_url": "https://heinonline.org/HOL/Page?handle=hein.journals/taxlr72&div=7",
+        "sha": "703bbcb95300eac2fe9914b8a5c7d5e60fbd9975",
+        "sha256": "3b8193b663b348e827dccedd4f1f6efe864afb8bad63b4bf5151c6ed64526cab",
+        "pages": 53
+      }
     },
     {
       "id": 36,
@@ -852,7 +1318,15 @@
       "title": "Raising the Stakes: Experimental Evidence on the Robustness of Taxpayer Mistakes",
       "doi": null,
       "citation_note": "Published title uses Endogeneity of Taxpayer Mistakes; website currently says Robustness.",
-      "status": "Final publisher PDF needed"
+      "status": "Verified final PDF",
+      "verified_pdf": {
+        "path": "pdfs/raising-the-stakes.pdf",
+        "doi": "10.17310/ntj.2018.2.01",
+        "source_url": "https://doi.org/10.17310/ntj.2018.2.01",
+        "sha": "10b39a9a1cfa6603490e9b55cd6a57af9f2e785e",
+        "sha256": "41da34bf43544ee30b34ad746d4e0def406cd74e46911e4a40019bcc3cc81461",
+        "pages": 30
+      }
     },
     {
       "id": 37,
@@ -866,7 +1340,15 @@
       "title": "Beyond Head of Household: Rethinking the Taxation of Single Parents",
       "doi": null,
       "citation_note": "",
-      "status": "Final publisher PDF needed"
+      "status": "Verified final PDF",
+      "verified_pdf": {
+        "path": "pdfs/beyond-head-of-household.pdf",
+        "doi": null,
+        "source_url": "https://heinonline.org/HOL/Page?handle=hein.journals/taxlr71&div=13",
+        "sha": "a2ea29357c0f3b860f492778ec3619707355d716",
+        "sha256": "1c1a711180236867b7691f8bfb182f3649b15fec62f031329d7244ad609825df",
+        "pages": 49
+      }
     },
     {
       "id": 38,
@@ -894,7 +1376,23 @@
       "title": "The Effects of Pretrial Detention on Conviction, Future Crime, and Employment: Evidence from Randomly Assigned Judges",
       "doi": "10.1257/aer.20161503",
       "citation_note": "",
-      "status": "Final publisher PDF needed"
+      "status": "Verified final PDF",
+      "verified_pdf": {
+        "path": "pdfs/effects-of-pretrial-detention.pdf",
+        "doi": "10.1257/aer.20161503",
+        "source_url": "https://doi.org/10.1257/aer.20161503",
+        "sha": "0b79894a2ab9d60519fd9a8989a32763477bc8df",
+        "sha256": "c0431719121b65e6b5a0ec858639b0dfe5f672ab5f8536ee314c2c58b3369cfd",
+        "pages": 40
+      },
+      "verified_supplements": [
+        {
+          "path": "pdfs/effects-of-pretrial-detention-appendix.pdf",
+          "source_url": "https://doi.org/10.1257/aer.20161503",
+          "sha256": "d2420e3e121cbc8ed4819e75aed31f5cede50aa5947d1156125c62c8bfdfa06c",
+          "pages": 39
+        }
+      ]
     },
     {
       "id": 40,
@@ -950,7 +1448,15 @@
       "title": "Retirement Contribution Rate Nudges and Plan Participation: Evidence from a Field Experiment",
       "doi": "10.1257/aer.p20171059",
       "citation_note": "",
-      "status": "Final publisher PDF needed"
+      "status": "Verified final PDF",
+      "verified_pdf": {
+        "path": "pdfs/retirement-contribution-rate-nudges.pdf",
+        "doi": "10.1257/aer.p20171059",
+        "source_url": "https://doi.org/10.1257/aer.p20171059",
+        "sha": "71096fe95b7cbe7a53ac8a208edca076823be93a",
+        "sha256": "fbd137e67ce48efaf2e02528040f8d70d0b5f06a03da1a8f7d0a31a8a201f74b",
+        "pages": 6
+      }
     },
     {
       "id": 44,
@@ -964,7 +1470,15 @@
       "title": "Consumer Borrowing After Payday Loan Bans",
       "doi": "10.1086/686033",
       "citation_note": "",
-      "status": "Final publisher PDF needed"
+      "status": "Verified final PDF",
+      "verified_pdf": {
+        "path": "pdfs/consumer-borrowing-payday-loan-bans.pdf",
+        "doi": "10.1086/686033",
+        "source_url": "https://doi.org/10.1086/686033",
+        "sha": "8d69211075fd5d86433b64f5ab92b23e14ecfc09",
+        "sha256": "8057a8edb5c19cfaa2d3caa3f013995814e056a5b1998d4351617f8ec36672a1",
+        "pages": 35
+      }
     },
     {
       "id": 45,
@@ -978,7 +1492,15 @@
       "title": "Defaults, Mandates, and Taxes: Policy Design with Active and Passive Decision-Makers",
       "doi": "10.1093/aler/ahw007",
       "citation_note": "",
-      "status": "Final publisher PDF needed"
+      "status": "Verified final PDF",
+      "verified_pdf": {
+        "path": "pdfs/defaults-mandates-and-taxes.pdf",
+        "doi": "10.1093/aler/ahw007",
+        "source_url": "https://doi.org/10.1093/aler/ahw007",
+        "sha": "7957e3e501e70dbad087db8a060c0985872d507f",
+        "sha256": "2b13fb433e74caeec0c3275829ea94917e9d38cdd93975b04636af1a3f4eaab5",
+        "pages": 25
+      }
     },
     {
       "id": 46,
@@ -992,7 +1514,15 @@
       "title": "Measuring Judicial Ideology Using Law Clerk Hiring",
       "doi": "10.1093/aler/ahw013",
       "citation_note": "Final issue is ALER 19(1), 129-161 (2017); website says 2016, the online-publication year.",
-      "status": "Final publisher PDF needed"
+      "status": "Verified final PDF",
+      "verified_pdf": {
+        "path": "pdfs/measuring-judicial-ideology.pdf",
+        "doi": "10.1093/aler/ahw013",
+        "source_url": "https://doi.org/10.1093/aler/ahw013",
+        "sha": "b139d2745741f9dee7bb68d37999e1baa4dd5f3d",
+        "sha256": "63d03e5bbe2e6dc44710cc8554df141966ae77166f179a9f8663e6dc1918ece2",
+        "pages": 33
+      }
     },
     {
       "id": 47,
@@ -1006,7 +1536,15 @@
       "title": "The Political Ideologies of Law Clerks",
       "doi": "10.1093/aler/ahw012",
       "citation_note": "Final issue is ALER 19(1), 96-128 (2017); website says 2016, the online-publication year.",
-      "status": "Final publisher PDF needed"
+      "status": "Verified final PDF",
+      "verified_pdf": {
+        "path": "pdfs/political-ideologies-of-law-clerks.pdf",
+        "doi": "10.1093/aler/ahw012",
+        "source_url": "https://doi.org/10.1093/aler/ahw012",
+        "sha": "458e50dd08983c0c1b2e803ac778af54a78144a2",
+        "sha256": "25eda3a8e8d2e58eb74e852862166998017e0d444ec7be57e56a764a16fee00f",
+        "pages": 33
+      }
     },
     {
       "id": 48,
@@ -1034,7 +1572,7 @@
       "title": "Optimal Tax Salience",
       "doi": "10.1016/j.jpubeco.2015.09.005",
       "citation_note": "",
-      "status": "Verified final PDF staged",
+      "status": "Verified final PDF",
       "verified_pdf": {
         "path": "pdfs/optimal-tax-salience.pdf",
         "doi": "10.1016/j.jpubeco.2015.09.005",
