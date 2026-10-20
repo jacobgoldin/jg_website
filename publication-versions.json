@@ -127,6 +127,111 @@
       "pages": 51,
       "verification": "Journal title page visually reviewed; DOI, authors, issue and pagination matched; every page parsed successfully.",
       "retrieved": "2026-10-20"
+    },
+    {
+      "id": 6,
+      "title": "Optimal Income Tax Deductions for Mixed Business and Personal Expenditures",
+      "doi": "10.1016/j.jpubeco.2025.105544",
+      "source_url": "https://doi.org/10.1016/j.jpubeco.2025.105544",
+      "path": "pdfs/optimal-income-tax-deductions.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/optimal-income-tax-deductions.pdf",
+      "sha": "2120f0e797dfa61d33d3962816511151e793af42",
+      "sha256": "1493de5bd01726d54d17550600c1b80a45a90a1543dcb3161c7c33209b25314e",
+      "size": 1389855,
+      "pages": 9,
+      "verification": "User-supplied publisher file; title page visually reviewed; authors and publication identity matched; every page parsed successfully.",
+      "retrieved": "2026-10-20",
+      "version": "version-of-record"
+    },
+    {
+      "id": 6,
+      "title": "Optimal Income Tax Deductions for Mixed Business and Personal Expenditures \u2014 Online Appendix",
+      "doi": "10.1016/j.jpubeco.2025.105544",
+      "source_url": "https://doi.org/10.1016/j.jpubeco.2025.105544",
+      "path": "pdfs/optimal-income-tax-deductions-appendix.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/optimal-income-tax-deductions-appendix.pdf",
+      "sha": "becf0eb6314bc9b6edd9ee54e0f356d536a2f335",
+      "sha256": "0967540e419c5d5fada26cc20a6d2a70566f64dbd270da8f1d34221d5956dcfc",
+      "size": 315189,
+      "pages": 19,
+      "verification": "User-supplied publisher file; title page visually reviewed; authors and publication identity matched; every page parsed successfully.",
+      "retrieved": "2026-10-20",
+      "version": "publisher-supplement"
+    },
+    {
+      "id": 2,
+      "title": "Tradeoffs are Domain Dependent: Improving Accuracy and Fairness in Property Tax Assessments",
+      "doi": "10.1145/3805689.3812318",
+      "source_url": "https://doi.org/10.1145/3805689.3812318",
+      "path": "pdfs/property-tax-assessment-tradeoffs.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/property-tax-assessment-tradeoffs.pdf",
+      "sha": "7d2383a88f5ec55acd35f07d2aa826e888f0cc88",
+      "sha256": "d688b79cd4e42272e0dd7572d675150a3389576b3f0d06718a04f0c1a4b56f1c",
+      "size": 2410291,
+      "pages": 27,
+      "verification": "User-supplied publisher file; title page visually reviewed; authors and publication identity matched; every page parsed successfully.",
+      "retrieved": "2026-10-20",
+      "version": "version-of-record"
+    },
+    {
+      "id": 5,
+      "title": "How Do State Child Tax Credits Affect Employment and Poverty?",
+      "doi": "10.1257/pandp.20261088",
+      "source_url": "https://doi.org/10.1257/pandp.20261088",
+      "path": "pdfs/state-child-tax-credits.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/state-child-tax-credits.pdf",
+      "sha": "c855437d66c80b99cb9cf6a3c15765ab575432bb",
+      "sha256": "5e713febbb1c3d531c13b18ed4829cdb7d439f1a6dde91883fb57b32c56d8536",
+      "size": 569662,
+      "pages": 6,
+      "verification": "User-supplied publisher file; title page visually reviewed; authors and publication identity matched; every page parsed successfully.",
+      "retrieved": "2026-10-20",
+      "version": "version-of-record"
+    },
+    {
+      "id": 17,
+      "title": "Estimating and Implementing Conventional Fairness Metrics With Probabilistic Protected Features",
+      "doi": "10.1109/SaTML59370.2024.00016",
+      "source_url": "https://doi.org/10.1109/SaTML59370.2024.00016",
+      "path": "pdfs/fairness-metrics-probabilistic-protected-features.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/fairness-metrics-probabilistic-protected-features.pdf",
+      "sha": "52676d4afecf5f4de3b3b316cc3ebc0462e3feed",
+      "sha256": "e4d7334bbcdd0fb885f5fe9cced5036edb9c4ecf43b7ed9de6571ce8cf43c5c7",
+      "size": 1794766,
+      "pages": 33,
+      "verification": "User-supplied publisher file; title page visually reviewed; authors and publication identity matched; every page parsed successfully.",
+      "retrieved": "2026-10-20",
+      "version": "version-of-record"
+    },
+    {
+      "id": 28,
+      "title": "Health Insurance and Mortality: Experimental Evidence from Taxpayer Outreach",
+      "doi": "10.1093/qje/qjaa029",
+      "source_url": "https://doi.org/10.1093/qje/qjaa029",
+      "path": "pdfs/health-insurance-and-mortality.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/health-insurance-and-mortality.pdf",
+      "sha": "3e1e85cb41e6ac74995cf976e114f1203fff8d07",
+      "sha256": "29baf9046aee165be2269ae73174db78da6ad3d834366b33c6bdf2bf3e660979",
+      "size": 686209,
+      "pages": 49,
+      "verification": "User-supplied publisher file; title page visually reviewed; authors and publication identity matched; every page parsed successfully.",
+      "retrieved": "2026-10-20",
+      "version": "version-of-record"
+    },
+    {
+      "id": 28,
+      "title": "Health Insurance and Mortality: Experimental Evidence from Taxpayer Outreach \u2014 Online Appendix",
+      "doi": "10.1093/qje/qjaa029",
+      "source_url": "https://doi.org/10.1093/qje/qjaa029",
+      "path": "pdfs/health-insurance-and-mortality-appendix.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/health-insurance-and-mortality-appendix.pdf",
+      "sha": "ec578b1056b4200ec9d0ded93ef12bbc5f7747f8",
+      "sha256": "c4bad952f6da54064d88b8ccdf1d7f25356afce9efdb48da009233b437d66bfa",
+      "size": 584459,
+      "pages": 52,
+      "verification": "User-supplied publisher file; title page visually reviewed; authors and publication identity matched; every page parsed successfully.",
+      "retrieved": "2026-10-20",
+      "version": "publisher-supplement"
     }
   ],
   "publication_audit": [
@@ -164,7 +269,15 @@
       "title": "Tradeoffs are Domain Dependent: Improving Accuracy and Fairness in Property Tax Assessments",
       "doi": "10.1145/3805689.3812318",
       "citation_note": "",
-      "status": "Final publisher PDF needed"
+      "status": "Verified final PDF uploaded; deployment verification pending",
+      "verified_pdf": {
+        "path": "pdfs/property-tax-assessment-tradeoffs.pdf",
+        "doi": "10.1145/3805689.3812318",
+        "source_url": "https://doi.org/10.1145/3805689.3812318",
+        "sha": "7d2383a88f5ec55acd35f07d2aa826e888f0cc88",
+        "sha256": "d688b79cd4e42272e0dd7572d675150a3389576b3f0d06718a04f0c1a4b56f1c",
+        "pages": 27
+      }
     },
     {
       "id": 3,
@@ -201,7 +314,15 @@
       "title": "How Do State Child Tax Credits Affect Employment and Poverty?",
       "doi": "10.1257/pandp.20261088",
       "citation_note": "",
-      "status": "Final publisher PDF needed"
+      "status": "Verified final PDF uploaded; deployment verification pending",
+      "verified_pdf": {
+        "path": "pdfs/state-child-tax-credits.pdf",
+        "doi": "10.1257/pandp.20261088",
+        "source_url": "https://doi.org/10.1257/pandp.20261088",
+        "sha": "c855437d66c80b99cb9cf6a3c15765ab575432bb",
+        "sha256": "5e713febbb1c3d531c13b18ed4829cdb7d439f1a6dde91883fb57b32c56d8536",
+        "pages": 6
+      }
     },
     {
       "id": 6,
@@ -215,7 +336,15 @@
       "title": "Optimal Income Tax Deductions for Mixed Business and Personal Expenditures",
       "doi": "10.1016/j.jpubeco.2025.105544",
       "citation_note": "",
-      "status": "Final publisher PDF needed"
+      "status": "Verified final PDF uploaded; deployment verification pending",
+      "verified_pdf": {
+        "path": "pdfs/optimal-income-tax-deductions.pdf",
+        "doi": "10.1016/j.jpubeco.2025.105544",
+        "source_url": "https://doi.org/10.1016/j.jpubeco.2025.105544",
+        "sha": "2120f0e797dfa61d33d3962816511151e793af42",
+        "sha256": "1493de5bd01726d54d17550600c1b80a45a90a1543dcb3161c7c33209b25314e",
+        "pages": 9
+      }
     },
     {
       "id": 7,
@@ -382,8 +511,8 @@
       ],
       "title": "Identifying the Cumulative Causal Effect of a Non-Binary Treatment from a Binary Instrument",
       "doi": "10.1162/rest_a_01526",
-      "citation_note": "",
-      "status": "Final publisher PDF needed"
+      "citation_note": "The publisher download supplied on 2026-10-20 is explicitly labeled Just Accepted MS, not a final typeset version. Retained without replacement.",
+      "status": "User-supplied publisher PDF is Just Accepted MS; no typeset final verified"
     },
     {
       "id": 17,
@@ -397,7 +526,15 @@
       "title": "Estimating and Implementing Conventional Fairness Metrics With Probabilistic Protected Features",
       "doi": "10.1109/SaTML59370.2024.00016",
       "citation_note": "Stanford-hosted candidate is arXiv v1, not the IEEE proceedings version.",
-      "status": "Final publisher PDF needed"
+      "status": "Verified final PDF uploaded; deployment verification pending",
+      "verified_pdf": {
+        "path": "pdfs/fairness-metrics-probabilistic-protected-features.pdf",
+        "doi": "10.1109/SaTML59370.2024.00016",
+        "source_url": "https://doi.org/10.1109/SaTML59370.2024.00016",
+        "sha": "52676d4afecf5f4de3b3b316cc3ebc0462e3feed",
+        "sha256": "e4d7334bbcdd0fb885f5fe9cced5036edb9c4ecf43b7ed9de6571ce8cf43c5c7",
+        "pages": 33
+      }
     },
     {
       "id": 18,
@@ -579,7 +716,15 @@
       "title": "Health Insurance and Mortality: Experimental Evidence from Taxpayer Outreach",
       "doi": "10.1093/qje/qjaa029",
       "citation_note": "",
-      "status": "Final publisher PDF needed"
+      "status": "Verified final PDF uploaded; deployment verification pending",
+      "verified_pdf": {
+        "path": "pdfs/health-insurance-and-mortality.pdf",
+        "doi": "10.1093/qje/qjaa029",
+        "source_url": "https://doi.org/10.1093/qje/qjaa029",
+        "sha": "3e1e85cb41e6ac74995cf976e114f1203fff8d07",
+        "sha256": "29baf9046aee165be2269ae73174db78da6ad3d834366b33c6bdf2bf3e660979",
+        "pages": 49
+      }
     },
     {
       "id": 29,

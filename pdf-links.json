@@ -19,9 +19,17 @@
     {
       "source": "Optimal_deductions 11-18-25.pdf",
       "path": "pdfs/optimal-income-tax-deductions.pdf",
-      "sha": "3ce29b7697f091f7d65751bd52898b12a89a106f",
-      "size": 502340,
-      "url": "https://jacobgoldin.github.io/jg_website/pdfs/optimal-income-tax-deductions.pdf"
+      "sha": "2120f0e797dfa61d33d3962816511151e793af42",
+      "size": 1389855,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/optimal-income-tax-deductions.pdf",
+      "original_migration_blob_sha": "3ce29b7697f091f7d65751bd52898b12a89a106f",
+      "original_migration_source": "Optimal_deductions 11-18-25.pdf",
+      "sha256": "1493de5bd01726d54d17550600c1b80a45a90a1543dcb3161c7c33209b25314e",
+      "doi": "10.1016/j.jpubeco.2025.105544",
+      "source_url": "https://doi.org/10.1016/j.jpubeco.2025.105544",
+      "retrieved": "2026-10-20",
+      "pages": 9,
+      "version": "version-of-record"
     },
     {
       "source": "Child Claiming 12-11-24.pdf",
@@ -106,16 +114,32 @@
     {
       "source": "GLM 08-24-20 (main).pdf",
       "path": "pdfs/health-insurance-and-mortality.pdf",
-      "sha": "ef75ccdb4706495a5a60499b5284754daf49fa7d",
-      "size": 269408,
-      "url": "https://jacobgoldin.github.io/jg_website/pdfs/health-insurance-and-mortality.pdf"
+      "sha": "3e1e85cb41e6ac74995cf976e114f1203fff8d07",
+      "size": 686209,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/health-insurance-and-mortality.pdf",
+      "original_migration_blob_sha": "ef75ccdb4706495a5a60499b5284754daf49fa7d",
+      "original_migration_source": "GLM 08-24-20 (main).pdf",
+      "sha256": "29baf9046aee165be2269ae73174db78da6ad3d834366b33c6bdf2bf3e660979",
+      "doi": "10.1093/qje/qjaa029",
+      "source_url": "https://doi.org/10.1093/qje/qjaa029",
+      "retrieved": "2026-10-20",
+      "pages": 49,
+      "version": "version-of-record"
     },
     {
       "source": "GLM 09-22-20 (online appendix).pdf",
       "path": "pdfs/health-insurance-and-mortality-appendix.pdf",
-      "sha": "da9ad48f4b7dc06008e835b8de6bfd07cbe17a7b",
-      "size": 1068344,
-      "url": "https://jacobgoldin.github.io/jg_website/pdfs/health-insurance-and-mortality-appendix.pdf"
+      "sha": "ec578b1056b4200ec9d0ded93ef12bbc5f7747f8",
+      "size": 584459,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/health-insurance-and-mortality-appendix.pdf",
+      "original_migration_blob_sha": "da9ad48f4b7dc06008e835b8de6bfd07cbe17a7b",
+      "original_migration_source": "GLM 09-22-20 (online appendix).pdf",
+      "sha256": "c4bad952f6da54064d88b8ccdf1d7f25356afce9efdb48da009233b437d66bfa",
+      "doi": "10.1093/qje/qjaa029",
+      "source_url": "https://doi.org/10.1093/qje/qjaa029",
+      "retrieved": "2026-10-20",
+      "pages": 52,
+      "version": "publisher-supplement"
     },
     {
       "source": "TSP 11-4-19.pdf",
@@ -338,6 +362,58 @@
       "retrieved": "2026-10-20",
       "sha256": "30f2b11c4506ec39c95efc7bdded0b347603ea8cf8a2c3ce591c97a04699abb5",
       "pages": 7
+    },
+    {
+      "path": "pdfs/optimal-income-tax-deductions-appendix.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/optimal-income-tax-deductions-appendix.pdf",
+      "source": "https://doi.org/10.1016/j.jpubeco.2025.105544",
+      "sha": "becf0eb6314bc9b6edd9ee54e0f356d536a2f335",
+      "sha256": "0967540e419c5d5fada26cc20a6d2a70566f64dbd270da8f1d34221d5956dcfc",
+      "size": 315189,
+      "doi": "10.1016/j.jpubeco.2025.105544",
+      "source_url": "https://doi.org/10.1016/j.jpubeco.2025.105544",
+      "retrieved": "2026-10-20",
+      "pages": 19,
+      "version": "publisher-supplement"
+    },
+    {
+      "path": "pdfs/property-tax-assessment-tradeoffs.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/property-tax-assessment-tradeoffs.pdf",
+      "source": "https://doi.org/10.1145/3805689.3812318",
+      "sha": "7d2383a88f5ec55acd35f07d2aa826e888f0cc88",
+      "sha256": "d688b79cd4e42272e0dd7572d675150a3389576b3f0d06718a04f0c1a4b56f1c",
+      "size": 2410291,
+      "doi": "10.1145/3805689.3812318",
+      "source_url": "https://doi.org/10.1145/3805689.3812318",
+      "retrieved": "2026-10-20",
+      "pages": 27,
+      "version": "version-of-record"
+    },
+    {
+      "path": "pdfs/state-child-tax-credits.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/state-child-tax-credits.pdf",
+      "source": "https://doi.org/10.1257/pandp.20261088",
+      "sha": "c855437d66c80b99cb9cf6a3c15765ab575432bb",
+      "sha256": "5e713febbb1c3d531c13b18ed4829cdb7d439f1a6dde91883fb57b32c56d8536",
+      "size": 569662,
+      "doi": "10.1257/pandp.20261088",
+      "source_url": "https://doi.org/10.1257/pandp.20261088",
+      "retrieved": "2026-10-20",
+      "pages": 6,
+      "version": "version-of-record"
+    },
+    {
+      "path": "pdfs/fairness-metrics-probabilistic-protected-features.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/fairness-metrics-probabilistic-protected-features.pdf",
+      "source": "https://doi.org/10.1109/SaTML59370.2024.00016",
+      "sha": "52676d4afecf5f4de3b3b316cc3ebc0462e3feed",
+      "sha256": "e4d7334bbcdd0fb885f5fe9cced5036edb9c4ecf43b7ed9de6571ce8cf43c5c7",
+      "size": 1794766,
+      "doi": "10.1109/SaTML59370.2024.00016",
+      "source_url": "https://doi.org/10.1109/SaTML59370.2024.00016",
+      "retrieved": "2026-10-20",
+      "pages": 33,
+      "version": "version-of-record"
     }
   ]
 }
