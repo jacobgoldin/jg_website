@@ -287,9 +287,17 @@
     {
       "source": "SurveyFramingEffects_9_2017.pdf",
       "path": "pdfs/survey-data-framing-effects.pdf",
-      "sha": "ceed91785a3e2d956e774ef3efe5f9f51404234f",
-      "size": 373284,
-      "url": "https://jacobgoldin.github.io/jg_website/pdfs/survey-data-framing-effects.pdf"
+      "sha": "59c1006bb0591c0851461621ec38a19583fcfde3",
+      "size": 697999,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/survey-data-framing-effects.pdf",
+      "original_migration_blob_sha": "ceed91785a3e2d956e774ef3efe5f9f51404234f",
+      "original_migration_source": "SurveyFramingEffects_9_2017.pdf",
+      "sha256": "ba7a1e484380d3d0e986fdeb23b89a7973b01043482e6f871caeca322aad27b9",
+      "doi": "10.1080/00031305.2017.1407358",
+      "source_url": "https://doi.org/10.1080/00031305.2017.1407358",
+      "retrieved": "2026-10-20",
+      "pages": 10,
+      "version": "version-of-record"
     },
     {
       "source": "Tax Notes - Final.pdf",
@@ -642,6 +650,19 @@
       "source_url": "https://doi.org/10.1257/aer.20161503",
       "retrieved": "2026-10-20",
       "pages": 39,
+      "version": "publisher-supplement"
+    },
+    {
+      "path": "pdfs/survey-data-framing-effects-appendix.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/survey-data-framing-effects-appendix.pdf",
+      "source": "https://doi.org/10.1080/00031305.2017.1407358",
+      "sha": "1716eee9a232602afd7e65fee07d609b1a468cbe",
+      "sha256": "6af62cd66d0c4add4ded14dc7e6d83f77f1108a75009ce0ea5aa92fa47ea620c",
+      "size": 259951,
+      "doi": "10.1080/00031305.2017.1407358",
+      "source_url": "https://doi.org/10.1080/00031305.2017.1407358",
+      "retrieved": "2026-10-20",
+      "pages": 8,
       "version": "publisher-supplement"
     }
   ]

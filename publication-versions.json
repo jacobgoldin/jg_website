@@ -586,6 +586,36 @@
       "verification": "Final journal/proceedings identity and title pages visually checked; every page parsed; PDF signature validated. Original user downloads preserved.",
       "retrieved": "2026-10-20",
       "version": "publisher-supplement"
+    },
+    {
+      "id": 40,
+      "title": "The Analysis of Survey Data with Framing Effects",
+      "doi": "10.1080/00031305.2017.1407358",
+      "source_url": "https://doi.org/10.1080/00031305.2017.1407358",
+      "path": "pdfs/survey-data-framing-effects.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/survey-data-framing-effects.pdf",
+      "sha": "59c1006bb0591c0851461621ec38a19583fcfde3",
+      "sha256": "ba7a1e484380d3d0e986fdeb23b89a7973b01043482e6f871caeca322aad27b9",
+      "size": 697999,
+      "pages": 10,
+      "verification": "Publisher-typeset online publication (June 2018), title page visually checked, every page parsed. Supplement matches authors and DOI record.",
+      "retrieved": "2026-10-20",
+      "version": "version-of-record"
+    },
+    {
+      "id": 40,
+      "title": "The Analysis of Survey Data with Framing Effects \u2014 Online Appendix",
+      "doi": "10.1080/00031305.2017.1407358",
+      "source_url": "https://doi.org/10.1080/00031305.2017.1407358",
+      "path": "pdfs/survey-data-framing-effects-appendix.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/survey-data-framing-effects-appendix.pdf",
+      "sha": "1716eee9a232602afd7e65fee07d609b1a468cbe",
+      "sha256": "6af62cd66d0c4add4ded14dc7e6d83f77f1108a75009ce0ea5aa92fa47ea620c",
+      "size": 259951,
+      "pages": 8,
+      "verification": "Publisher-typeset online publication (June 2018), title page visually checked, every page parsed. Supplement matches authors and DOI record.",
+      "retrieved": "2026-10-20",
+      "version": "publisher-supplement"
     }
   ],
   "publication_audit": [
@@ -1406,7 +1436,23 @@
       "title": "The Analysis of Survey Data with Framing Effects",
       "doi": "10.1080/00031305.2017.1407358",
       "citation_note": "Final issue is American Statistician 73(3), 264-272 (2019); website says 2018, the online-publication year.",
-      "status": "Final publisher PDF needed"
+      "status": "Verified final PDF",
+      "verified_pdf": {
+        "path": "pdfs/survey-data-framing-effects.pdf",
+        "doi": "10.1080/00031305.2017.1407358",
+        "source_url": "https://doi.org/10.1080/00031305.2017.1407358",
+        "sha": "59c1006bb0591c0851461621ec38a19583fcfde3",
+        "sha256": "ba7a1e484380d3d0e986fdeb23b89a7973b01043482e6f871caeca322aad27b9",
+        "pages": 10
+      },
+      "verified_supplements": [
+        {
+          "path": "pdfs/survey-data-framing-effects-appendix.pdf",
+          "source_url": "https://doi.org/10.1080/00031305.2017.1407358",
+          "sha256": "6af62cd66d0c4add4ded14dc7e6d83f77f1108a75009ce0ea5aa92fa47ea620c",
+          "pages": 8
+        }
+      ]
     },
     {
       "id": 41,
