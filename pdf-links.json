@@ -1,0 +1,251 @@
+{
+  "research_page": "https://sites.google.com/site/jacobsgoldin/research",
+  "source_commit": "3f261b0dd8a76585463b71123b187e4f7bd5a845",
+  "files": [
+    {
+      "source": "optimal line-drawing 9-28-26.pdf",
+      "path": "pdfs/optimal-line-drawing.pdf",
+      "sha": "b0c7c26aa4c8e73b963aa30f9ab4985949f18e25",
+      "size": 378059,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/optimal-line-drawing.pdf"
+    },
+    {
+      "source": "Indistinguisable Activities 10-5-26.pdf",
+      "path": "pdfs/indistinguishable-activities.pdf",
+      "sha": "234fca5f1a3c4c54bc3829868df4a8a2ff8d177a",
+      "size": 412605,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/indistinguishable-activities.pdf"
+    },
+    {
+      "source": "Optimal_deductions 11-18-25.pdf",
+      "path": "pdfs/optimal-income-tax-deductions.pdf",
+      "sha": "3ce29b7697f091f7d65751bd52898b12a89a106f",
+      "size": 502340,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/optimal-income-tax-deductions.pdf"
+    },
+    {
+      "source": "Child Claiming 12-11-24.pdf",
+      "path": "pdfs/claiming-of-children.pdf",
+      "sha": "8868e61ef46816bae52c1455b9e5fe63943788d3",
+      "size": 644586,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/claiming-of-children.pdf"
+    },
+    {
+      "source": "audit disparities - main_text (final).pdf",
+      "path": "pdfs/tax-audit-disparities.pdf",
+      "sha": "d347f151b6ba4023b00c3443868b039e326d2af4",
+      "size": 1184136,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/tax-audit-disparities.pdf"
+    },
+    {
+      "source": "audit disparities - appendix (final).pdf",
+      "path": "pdfs/tax-audit-disparities-appendix.pdf",
+      "sha": "e522174bd71a0e20fd549ea06248f7d8712f0cf6",
+      "size": 3156117,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/tax-audit-disparities-appendix.pdf"
+    },
+    {
+      "source": "07 Akee_RaceEthnicityEconomicsStats.pdf",
+      "path": "pdfs/dual-bootstrap.pdf",
+      "sha": "536fdc31b41790e2a342169bbd2ac35481ca19f6",
+      "size": 4459094,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/dual-bootstrap.pdf"
+    },
+    {
+      "source": "Goldin Maag Michelmore 2022.pdf",
+      "path": "pdfs/child-tax-credit-fiscal-cost.pdf",
+      "sha": "e63567d8d968bc12104ffa80a8d7886e5a6a4159",
+      "size": 1420529,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/child-tax-credit-fiscal-cost.pdf"
+    },
+    {
+      "source": "Goldin, Homonoff, Javaid, and Schafer (2020).pdf",
+      "path": "pdfs/tax-filing-and-take-up.pdf",
+      "sha": "732e1b022367b5cb90d2f0e4fc10a54241a8cf88",
+      "size": 1642146,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/tax-filing-and-take-up.pdf"
+    },
+    {
+      "source": "SNAP 10-8-19.pdf",
+      "path": "pdfs/issuance-and-incidence.pdf",
+      "sha": "5ff1f2b9243adf8e4fef49abd7a0672630b2d391",
+      "size": 347095,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/issuance-and-incidence.pdf"
+    },
+    {
+      "source": "defaults 12-14-18.pdf",
+      "path": "pdfs/optimal-defaults.pdf",
+      "sha": "6da45be9712021548bcab7423abdf8a4ff8c080e",
+      "size": 998187,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/optimal-defaults.pdf"
+    },
+    {
+      "source": "GLM 08-24-20 (main).pdf",
+      "path": "pdfs/health-insurance-and-mortality.pdf",
+      "sha": "ef75ccdb4706495a5a60499b5284754daf49fa7d",
+      "size": 269408,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/health-insurance-and-mortality.pdf"
+    },
+    {
+      "source": "GLM 09-22-20 (online appendix).pdf",
+      "path": "pdfs/health-insurance-and-mortality-appendix.pdf",
+      "sha": "da9ad48f4b7dc06008e835b8de6bfd07cbe17a7b",
+      "size": 1068344,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/health-insurance-and-mortality-appendix.pdf"
+    },
+    {
+      "source": "TSP 11-4-19.pdf",
+      "path": "pdfs/how-much-to-save.pdf",
+      "sha": "3f84d393157dcd22db93f1454b98a107b4446638",
+      "size": 625323,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/how-much-to-save.pdf"
+    },
+    {
+      "source": "Goldin Reck 3-22-19.pdf",
+      "path": "pdfs/revealed-preference-framing-effects.pdf",
+      "sha": "0ace37b0bdc1c7bc629aa161e2680ab5c4b8c9d3",
+      "size": 724184,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/revealed-preference-framing-effects.pdf"
+    },
+    {
+      "source": "GR online appendix 3-22-19 (revised).pdf",
+      "path": "pdfs/revealed-preference-framing-effects-appendix.pdf",
+      "sha": "93371b6be503499c305f8c9f76fde29b679bb004",
+      "size": 628279,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/revealed-preference-framing-effects-appendix.pdf"
+    },
+    {
+      "source": "CO_Rev_Draft 03-13-2020.pdf",
+      "path": "pdfs/communicating-tax-penalties.pdf",
+      "sha": "988e47555232107aed225653ad950a4b0c2ababe",
+      "size": 1461372,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/communicating-tax-penalties.pdf"
+    },
+    {
+      "source": "Cranor Goldin Kotb - EITC Notifications 4-18-19.pdf",
+      "path": "pdfs/eitc-notification-laws.pdf",
+      "sha": "2d830f12cdc0fb442833e827fea0288607a50b7e",
+      "size": 2374909,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/eitc-notification-laws.pdf"
+    },
+    {
+      "source": "Goldin - Tax Benefit Complexity - 10-25-18.pdf",
+      "path": "pdfs/tax-benefit-complexity.pdf",
+      "sha": "5d3982e123ae750c07e3c22cf9bf2ea837aa9bf7",
+      "size": 477703,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/tax-benefit-complexity.pdf"
+    },
+    {
+      "source": "Feldman Goldin Homonoff.pdf",
+      "path": "pdfs/raising-the-stakes.pdf",
+      "sha": "b499a95694d84b968463d168ad8b3535b361f423",
+      "size": 636982,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/raising-the-stakes.pdf"
+    },
+    {
+      "source": "Head of Household Tax Filing Status - 3-1-2017.pdf",
+      "path": "pdfs/beyond-head-of-household.pdf",
+      "sha": "94500f3d85a596dea480e116ebd7dbf005538108",
+      "size": 712704,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/beyond-head-of-household.pdf"
+    },
+    {
+      "source": "DGY_Bail_Aug2017.pdf",
+      "path": "pdfs/effects-of-pretrial-detention.pdf",
+      "sha": "05bc1aa6d8a8949e2136b1fac54e7c659591aa96",
+      "size": 4669161,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/effects-of-pretrial-detention.pdf"
+    },
+    {
+      "source": "SurveyFramingEffects_9_2017.pdf",
+      "path": "pdfs/survey-data-framing-effects.pdf",
+      "sha": "ceed91785a3e2d956e774ef3efe5f9f51404234f",
+      "size": 373284,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/survey-data-framing-effects.pdf"
+    },
+    {
+      "source": "Tax Notes - Final.pdf",
+      "path": "pdfs/irs-free-file-participation.pdf",
+      "sha": "71d62cb6f1c784c8ffbd2a97c4bc80068a4726a2",
+      "size": 502270,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/irs-free-file-participation.pdf"
+    },
+    {
+      "source": "Libertarian Quasi-Paternalism.pdf",
+      "path": "pdfs/libertarian-quasi-paternalism.pdf",
+      "sha": "468140e9c53eee8223844a015765eb86b08e49ce",
+      "size": 193631,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/libertarian-quasi-paternalism.pdf"
+    },
+    {
+      "source": "AERPP - Goldin, Homonoff, and Tucker.pdf",
+      "path": "pdfs/retirement-contribution-rate-nudges.pdf",
+      "sha": "fb0db0d37bbb000721aa4865498364bfb813f1e7",
+      "size": 264701,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/retirement-contribution-rate-nudges.pdf"
+    },
+    {
+      "source": "payday 1_16_2015.pdf",
+      "path": "pdfs/consumer-borrowing-payday-loan-bans.pdf",
+      "sha": "2cea99f7cac7a8c4ac3dac9627c718df0914f786",
+      "size": 630516,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/consumer-borrowing-payday-loan-bans.pdf"
+    },
+    {
+      "source": "Goldin and Lawson 6-1-16.pdf",
+      "path": "pdfs/defaults-mandates-and-taxes.pdf",
+      "sha": "010283795f685e64c288a0e3205f942f11f8ab24",
+      "size": 221815,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/defaults-mandates-and-taxes.pdf"
+    },
+    {
+      "source": "2016-7-10 Judge Ideology Measure.pdf",
+      "path": "pdfs/measuring-judicial-ideology.pdf",
+      "sha": "9c85470168373ee53f0ea86af055cac0fd63323a",
+      "size": 855048,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/measuring-judicial-ideology.pdf"
+    },
+    {
+      "source": "2016-7-10 Clerk Ideology.pdf",
+      "path": "pdfs/political-ideologies-of-law-clerks.pdf",
+      "sha": "eb7b28c16190e196b4d447372d6be968d2b0aef6",
+      "size": 2582020,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/political-ideologies-of-law-clerks.pdf"
+    },
+    {
+      "source": "Goldin - Which Way to Nudge.pdf",
+      "path": "pdfs/which-way-to-nudge.pdf",
+      "sha": "7226ad6bd87d87b2566630d1b626f5b4dfd501e7",
+      "size": 716589,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/which-way-to-nudge.pdf"
+    },
+    {
+      "source": "Optimal Tax Salience.pdf",
+      "path": "pdfs/optimal-tax-salience.pdf",
+      "sha": "65de74aa9faa17c236a5015e74c604196ef47166",
+      "size": 275034,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/optimal-tax-salience.pdf"
+    },
+    {
+      "source": "Goldin and Homonoff 2013.pdf",
+      "path": "pdfs/cigarette-tax-salience.pdf",
+      "sha": "cb7356ee3fe643831da14a643b8597a644384b20",
+      "size": 754546,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/cigarette-tax-salience.pdf"
+    },
+    {
+      "source": "Goldin and Listokin (published).pdf",
+      "path": "pdfs/tax-expenditure-salience.pdf",
+      "sha": "9270926bce59f13228b90bf88bde649d76e40067",
+      "size": 206196,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/tax-expenditure-salience.pdf"
+    },
+    {
+      "source": "goldin - sales tax not included.pdf",
+      "path": "pdfs/sales-tax-not-included.pdf",
+      "sha": "b097ab60feecb3c075873f1e47be9c01a7b150ca",
+      "size": 291627,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/sales-tax-not-included.pdf"
+    }
+  ]
+}
