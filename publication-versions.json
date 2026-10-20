@@ -616,6 +616,36 @@
       "verification": "Publisher-typeset online publication (June 2018), title page visually checked, every page parsed. Supplement matches authors and DOI record.",
       "retrieved": "2026-10-20",
       "version": "publisher-supplement"
+    },
+    {
+      "id": 16,
+      "title": "Identifying the Cumulative Causal Effect of a Non-Binary Treatment from a Binary Instrument",
+      "doi": "10.1162/rest_a_01526",
+      "source_url": "https://doi.org/10.1162/rest_a_01526",
+      "path": "pdfs/cumulative-causal-effect.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/cumulative-causal-effect.pdf",
+      "sha": "f25a9286f98e36884df8e8302a074962fba1ed3c",
+      "sha256": "b4d42352e023dd5e0364fbffe9d15c0bb8b47a81e8194ec45bf59fc4a28f120b",
+      "size": 1905466,
+      "pages": 20,
+      "verification": "Publisher Just Accepted MS and accompanying supplement; user explicitly approved using this version on 2026-10-20; pages parsed and title pages visually checked.",
+      "retrieved": "2026-10-20",
+      "version": "accepted-manuscript"
+    },
+    {
+      "id": 16,
+      "title": "Identifying the Cumulative Causal Effect of a Non-Binary Treatment from a Binary Instrument \u2014 Online Appendix",
+      "doi": "10.1162/rest_a_01526",
+      "source_url": "https://doi.org/10.1162/rest_a_01526",
+      "path": "pdfs/cumulative-causal-effect-appendix.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/cumulative-causal-effect-appendix.pdf",
+      "sha": "38232d506a64aab574d1623817c40d2f369de1cf",
+      "sha256": "5e7e4ebbd40877724c1ac10973b7be4a5a42c2a41cee8179001ffa161a3b2509",
+      "size": 1097740,
+      "pages": 22,
+      "verification": "Publisher Just Accepted MS and accompanying supplement; user explicitly approved using this version on 2026-10-20; pages parsed and title pages visually checked.",
+      "retrieved": "2026-10-20",
+      "version": "publisher-supplement"
     }
   ],
   "publication_audit": [
@@ -895,8 +925,24 @@
       ],
       "title": "Identifying the Cumulative Causal Effect of a Non-Binary Treatment from a Binary Instrument",
       "doi": "10.1162/rest_a_01526",
-      "citation_note": "The publisher download supplied on 2026-10-20 is explicitly labeled Just Accepted MS, not a final typeset version. Retained without replacement.",
-      "status": "User-supplied publisher PDF is Just Accepted MS; no typeset final verified"
+      "citation_note": "User approved the publisher Just Accepted MS on 2026-10-20. This file is not represented as a typeset version of record.",
+      "status": "Publisher accepted manuscript (user-approved)",
+      "verified_pdf": {
+        "path": "pdfs/cumulative-causal-effect.pdf",
+        "doi": "10.1162/rest_a_01526",
+        "source_url": "https://doi.org/10.1162/rest_a_01526",
+        "sha": "f25a9286f98e36884df8e8302a074962fba1ed3c",
+        "sha256": "b4d42352e023dd5e0364fbffe9d15c0bb8b47a81e8194ec45bf59fc4a28f120b",
+        "pages": 20
+      },
+      "verified_supplements": [
+        {
+          "path": "pdfs/cumulative-causal-effect-appendix.pdf",
+          "source_url": "https://doi.org/10.1162/rest_a_01526",
+          "sha256": "5e7e4ebbd40877724c1ac10973b7be4a5a42c2a41cee8179001ffa161a3b2509",
+          "pages": 22
+        }
+      ]
     },
     {
       "id": 17,

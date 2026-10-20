@@ -664,6 +664,32 @@
       "retrieved": "2026-10-20",
       "pages": 8,
       "version": "publisher-supplement"
+    },
+    {
+      "path": "pdfs/cumulative-causal-effect.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/cumulative-causal-effect.pdf",
+      "source": "https://doi.org/10.1162/rest_a_01526",
+      "sha": "f25a9286f98e36884df8e8302a074962fba1ed3c",
+      "sha256": "b4d42352e023dd5e0364fbffe9d15c0bb8b47a81e8194ec45bf59fc4a28f120b",
+      "size": 1905466,
+      "doi": "10.1162/rest_a_01526",
+      "source_url": "https://doi.org/10.1162/rest_a_01526",
+      "retrieved": "2026-10-20",
+      "pages": 20,
+      "version": "accepted-manuscript"
+    },
+    {
+      "path": "pdfs/cumulative-causal-effect-appendix.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/cumulative-causal-effect-appendix.pdf",
+      "source": "https://doi.org/10.1162/rest_a_01526",
+      "sha": "38232d506a64aab574d1623817c40d2f369de1cf",
+      "sha256": "5e7e4ebbd40877724c1ac10973b7be4a5a42c2a41cee8179001ffa161a3b2509",
+      "size": 1097740,
+      "doi": "10.1162/rest_a_01526",
+      "source_url": "https://doi.org/10.1162/rest_a_01526",
+      "retrieved": "2026-10-20",
+      "pages": 22,
+      "version": "publisher-supplement"
     }
   ]
 }
