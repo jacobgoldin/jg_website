@@ -1,0 +1,959 @@
+{
+  "updated": "2026-10-20",
+  "status": "in-progress",
+  "verified_finals": [
+    {
+      "id": 1,
+      "title": "Hidden Errors in Big Data: The Case of Property Records",
+      "doi": "10.1609/aies.v9i4.43314",
+      "source_url": "https://ojs.aaai.org/index.php/AIES/article/download/43314/50874",
+      "path": "pdfs/hidden-errors-property-records.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/hidden-errors-property-records.pdf",
+      "sha": "9e4df5ca41e087508fef0122610c12ec928863ae",
+      "sha256": "914bc1f4ce32d2eb95749d5d95881f88da7fa60e1dc7da49c0ffbfd139d56983",
+      "size": 738104,
+      "pages": 13,
+      "verification": "Publisher or coauthor final PDF; title page visually reviewed; every page parsed successfully.",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "id": 12,
+      "title": "Near-Exponential Savings for Population Mean Estimation with Active Learning",
+      "doi": "10.52202/085713-4891",
+      "source_url": "https://proceedings.nips.cc/paper_files/paper/2025/file/d72269b369338b823b07c811af9fb7cf-Paper-Conference.pdf",
+      "path": "pdfs/near-exponential-mean-estimation.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/near-exponential-mean-estimation.pdf",
+      "sha": "ab8bc1e634aaa599edca76bb5b34bf83685a039a",
+      "sha256": "d5b1a1ed32d269d4d9f75abe9c42f45de0ec0bbc6517f98e42b21dfd92ab16eb",
+      "size": 9079247,
+      "pages": 31,
+      "verification": "Publisher or coauthor final PDF; title page visually reviewed; every page parsed successfully.",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "id": 19,
+      "title": "Integrating Reward Maximization and Population Estimation: Sequential Decision-Making for Internal Revenue Service Audit Selection",
+      "doi": "10.1609/aaai.v37i4.25637",
+      "source_url": "https://ojs.aaai.org/index.php/AAAI/article/download/25637/25409",
+      "path": "pdfs/irs-audit-selection.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/irs-audit-selection.pdf",
+      "sha": "4034d9c87b48f3bac114046e175ebc38f1a14f74",
+      "sha256": "291d6c117a092c1ffc5b348bac3a6129a52b0749ae904a15c11c4b8581d3c918",
+      "size": 13728990,
+      "pages": 9,
+      "verification": "Publisher or coauthor final PDF; title page visually reviewed; every page parsed successfully.",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "id": 20,
+      "title": "Entropy Regularization for Population Estimation",
+      "doi": "10.1609/aaai.v37i10.26438",
+      "source_url": "https://ojs.aaai.org/index.php/AAAI/article/download/26438/26210",
+      "path": "pdfs/entropy-regularization.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/entropy-regularization.pdf",
+      "sha": "b7ccb0b725a8bba2bc008bc125d968efabfcd6f6",
+      "sha256": "30f2b11c4506ec39c95efc7bdded0b347603ea8cf8a2c3ce591c97a04699abb5",
+      "size": 864214,
+      "pages": 7,
+      "verification": "Publisher or coauthor final PDF; title page visually reviewed; every page parsed successfully.",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "id": 27,
+      "title": "Optimal Defaults with Normative Ambiguity",
+      "doi": "10.1162/rest_a_00945",
+      "source_url": "https://static1.squarespace.com/static/59ae6e08914e6b4040aa9716/t/61fa6c5e9e733d7445e7d284/1643801695031/defaults.pdf",
+      "path": "pdfs/optimal-defaults.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/optimal-defaults.pdf",
+      "sha": "88a088da5bc27ded831d5bb87479cdd75e3a9e83",
+      "sha256": "1e5c387808c8678c8c9e1a1ca39c6c67e5e616ec326c782ed13bfed74786d25d",
+      "size": 527217,
+      "pages": 17,
+      "verification": "Publisher or coauthor final PDF; title page visually reviewed; every page parsed successfully.",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "id": 31,
+      "title": "Revealed Preference Analysis with Framing Effects",
+      "doi": "10.1086/706860",
+      "source_url": "https://www.danreck.com/s/GoldinReckJPEfinal.pdf",
+      "path": "pdfs/revealed-preference-framing-effects.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/revealed-preference-framing-effects.pdf",
+      "sha": "7cd969c7c94c310d515d65da94351ad5860a0797",
+      "sha256": "315c0794f478f40db259bdcd975f42baa53823b3d1701dbf42efc73c2950a62c",
+      "size": 1557154,
+      "pages": 37,
+      "verification": "Publisher or coauthor final PDF; title page visually reviewed; every page parsed successfully.",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "id": 49,
+      "title": "Optimal Tax Salience",
+      "doi": "10.1016/j.jpubeco.2015.09.005",
+      "source_url": "https://law.stanford.edu/wp-content/uploads/2016/06/Optimal-tax-salience-2015.pdf",
+      "path": "pdfs/optimal-tax-salience.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/optimal-tax-salience.pdf",
+      "sha": "82d12234e4a007814987b856eb51d1ada28d447a",
+      "sha256": "5626783cb9cfd98d38fc37409f659a67b282aab532775486e5482d214642c95c",
+      "size": 306302,
+      "pages": 9,
+      "verification": "Publisher or coauthor final PDF; title page visually reviewed; every page parsed successfully.",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "id": 8,
+      "title": "The Claiming of Children on U.S. Tax Returns",
+      "doi": "10.1086/736708",
+      "source_url": "https://doi.org/10.1086/736708",
+      "path": "pdfs/claiming-of-children.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/claiming-of-children.pdf",
+      "sha": "7b4e6bbc0a1067fb5f927b114ba5d341920b6647",
+      "sha256": "a7af86c17699a32143a8a4cf5aafcc647ced61e4b18c54221afd15d0d10cbbb9",
+      "size": 465592,
+      "pages": 21,
+      "verification": "Journal title page visually reviewed; DOI, authors, issue and pagination matched; every page parsed successfully.",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "id": 13,
+      "title": "Measuring and Mitigating Racial Disparities in Tax Audits",
+      "doi": "10.1093/qje/qjae027",
+      "source_url": "https://doi.org/10.1093/qje/qjae027",
+      "path": "pdfs/tax-audit-disparities.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/tax-audit-disparities.pdf",
+      "sha": "376145c770067ed8a84f7b2679d73820d168595b",
+      "sha256": "293324d67b42c9beac1b535db29c76e8a019e077cb10949122c2ff2d874dca95",
+      "size": 1532664,
+      "pages": 51,
+      "verification": "Journal title page visually reviewed; DOI, authors, issue and pagination matched; every page parsed successfully.",
+      "retrieved": "2026-10-20"
+    }
+  ],
+  "publication_audit": [
+    {
+      "id": 1,
+      "citation": "Hidden Errors in Big Data: The Case of Property Records, AIES (2026, forthcoming) (co-P.I., with Emma Harvey, Evelyn Smith, and Daniel E. Ho).",
+      "links": [
+        {
+          "title": "Hidden Errors in Big Data: The Case of Property Records",
+          "url": "https://arxiv.org/pdf/2607.28827"
+        }
+      ],
+      "title": "Hidden Errors in Big Data: The Case of Property Records",
+      "doi": "10.1609/aies.v9i4.43314",
+      "citation_note": "",
+      "status": "Verified final PDF staged",
+      "verified_pdf": {
+        "path": "pdfs/hidden-errors-property-records.pdf",
+        "doi": "10.1609/aies.v9i4.43314",
+        "source_url": "https://ojs.aaai.org/index.php/AIES/article/download/43314/50874",
+        "sha": "9e4df5ca41e087508fef0122610c12ec928863ae",
+        "sha256": "914bc1f4ce32d2eb95749d5d95881f88da7fa60e1dc7da49c0ffbfd139d56983",
+        "pages": 13
+      }
+    },
+    {
+      "id": 2,
+      "citation": "Tradeoffs are Domain Dependent: Improving Accuracy and Fairness in Property Tax Assessments, FAccT (2026, forthcoming) (co-P.I., with Emma Harvey, Evelyn Smith, Chris Berry, and Daniel E. Ho).",
+      "links": [
+        {
+          "title": "Tradeoffs are Domain Dependent: Improving Accuracy and Fairness in Property Tax Assessments",
+          "url": "http://arxiv.org/abs/2605.15020"
+        }
+      ],
+      "title": "Tradeoffs are Domain Dependent: Improving Accuracy and Fairness in Property Tax Assessments",
+      "doi": "10.1145/3805689.3812318",
+      "citation_note": "",
+      "status": "Final publisher PDF needed"
+    },
+    {
+      "id": 3,
+      "citation": "Monotone Ecological Inference (with Hadi Elzayn, Cameron Guage, Daniel E. Ho, and Claire Morton), Political Analysis (Forthcoming).",
+      "links": [
+        {
+          "title": "Monotone Ecological Inference",
+          "url": "https://www.cambridge.org/core/journals/political-analysis/article/monotone-ecological-inference/4090B0DA4A8B2ACF493795EDD60AF093"
+        }
+      ],
+      "title": "Monotone Ecological Inference",
+      "doi": "10.1017/pan.2026.10048",
+      "citation_note": "",
+      "status": "Already links to publisher page or publisher PDF; retain"
+    },
+    {
+      "id": 4,
+      "citation": "Explainability in the Wild, or Wild Explanations? Evidence from Predicting Tax Evasion (co-P.I., with Isabel O. Gallegos, Benjamin Seiler, \u00a0Carlos Guestrin, and Daniel E. Ho), Harvard Data Science Review (Forthcoming).",
+      "links": [
+        {
+          "title": "Explainability in the Wild, or Wild Explanations? Evidence from Predicting Tax Evasion",
+          "url": "https://doi.org/10.1162/99608f92.c0e75932"
+        }
+      ],
+      "title": "Explainability in the Wild, or Wild Explanations? Evidence from Predicting Tax Evasion",
+      "doi": "10.1162/99608f92.c0e75932",
+      "citation_note": "",
+      "status": "Already links to publisher page or publisher PDF; retain"
+    },
+    {
+      "id": 5,
+      "citation": "How Do State Child Tax Credits Affect Employment and Poverty? (with Matthew Unrath, Nathan Tollett, Tatiana Homonoff, Neel Lal, and Katherine Michelmore). AEA Papers and Proceedings (Forthcoming).",
+      "links": [],
+      "title": "How Do State Child Tax Credits Affect Employment and Poverty?",
+      "doi": "10.1257/pandp.20261088",
+      "citation_note": "",
+      "status": "Final publisher PDF needed"
+    },
+    {
+      "id": 6,
+      "citation": "Optimal Income Tax Deductions for Mixed Business and Personal Expenditures (with Nicholas Lawson and Sebastian K\u00f6ehne), Journal of Public Economics (2026).",
+      "links": [
+        {
+          "title": "Optimal Income Tax Deductions for Mixed Business and Personal Expenditures",
+          "url": "https://jacobgoldin.github.io/jg_website/pdfs/optimal-income-tax-deductions.pdf"
+        }
+      ],
+      "title": "Optimal Income Tax Deductions for Mixed Business and Personal Expenditures",
+      "doi": "10.1016/j.jpubeco.2025.105544",
+      "citation_note": "",
+      "status": "Final publisher PDF needed"
+    },
+    {
+      "id": 7,
+      "citation": "When Should the Legal System Help Redistribute Income? (with Zachary Liscow), University of Chicago Law Review (Symposium Contribution) (2026).",
+      "links": [
+        {
+          "title": "When Should the Legal System Help Redistribute Income?",
+          "url": "https://lawreview.uchicago.edu/sites/default/files/2026-03/04_Goldin%20%26%20Liscow_SYMP_FINAL.pdf"
+        }
+      ],
+      "title": "When Should the Legal System Help Redistribute Income?",
+      "doi": null,
+      "citation_note": "",
+      "status": "Already links to publisher page or publisher PDF; retain"
+    },
+    {
+      "id": 8,
+      "citation": "The Claiming of Children on U.S. Tax Returns (with Geoffrey Gee, Joseph Gray-Hancuch, Ithai Lurie, and Vedant Vohra), National Tax Journal (2026).",
+      "links": [
+        {
+          "title": "The Claiming of Children on U.S. Tax Returns",
+          "url": "https://jacobgoldin.github.io/jg_website/pdfs/claiming-of-children.pdf"
+        }
+      ],
+      "title": "The Claiming of Children on U.S. Tax Returns",
+      "doi": null,
+      "citation_note": "",
+      "status": "Verified final PDF staged",
+      "verified_pdf": {
+        "path": "pdfs/claiming-of-children.pdf",
+        "doi": "10.1086/736708",
+        "source_url": "https://doi.org/10.1086/736708",
+        "sha": "7b4e6bbc0a1067fb5f927b114ba5d341920b6647",
+        "sha256": "a7af86c17699a32143a8a4cf5aafcc647ced61e4b18c54221afd15d0d10cbbb9",
+        "pages": 21
+      }
+    },
+    {
+      "id": 9,
+      "citation": "Partisan Differences in Childhood Measles Vaccination and General Refusals: A Retrospective Cohort Study of Electronic Health Records in the United States, 1988-2024, The Lancet Regional Health \u2013 Americas (2026, forthcoming) (co-P.I., with Claire Morton, Derek Ouyang, Deborah L. Schwartz, and Daniel E. Ho) .",
+      "links": [
+        {
+          "title": "Partisan Differences in Childhood Measles Vaccination and General Refusals: A Retrospective Cohort Study of Electronic Health Records in the United States, 1988-2024",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2667193X26001250"
+        }
+      ],
+      "title": "Partisan Differences in Childhood Measles Vaccination and General Refusals: A Retrospective Cohort Study of Electronic Health Records in the United States, 1988-2024",
+      "doi": null,
+      "citation_note": "",
+      "status": "Already links to publisher page or publisher PDF; retain"
+    },
+    {
+      "id": 10,
+      "citation": "Evaluating the Impact of Discordant and Missing Demographic Information on Population Health Assessments Using Linked Electronic Health Records and Census Bureau Microdata \u00a0(co-P.I., with Derek Ouyang, Bob Phillips, Victoria Udalova, Aubrey Limberg, David Rehkopf, and Daniel E. Ho), PLOS Digital Health (2026).",
+      "links": [
+        {
+          "title": "Evaluating the Impact of Discordant and Missing Demographic Information on Population Health Assessments Using Linked Electronic Health Records and Census Bureau Microdata",
+          "url": "https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001289&"
+        }
+      ],
+      "title": "Evaluating the Impact of Discordant and Missing Demographic Information on Population Health Assessments Using Linked Electronic Health Records and Census Bureau Microdata",
+      "doi": null,
+      "citation_note": "",
+      "status": "Already links to publisher page or publisher PDF; retain"
+    },
+    {
+      "id": 11,
+      "citation": "Estimation of Racial Disparities When Race is Not Observed (with Cory McCartan, Kosuke Imai, Robin Fisher, and Daniel E. Ho), Journal of the American Statistical Association (2025).",
+      "links": [
+        {
+          "title": "Estimation of Racial Disparities When Race is Not Observed",
+          "url": "https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2526695"
+        }
+      ],
+      "title": "Estimation of Racial Disparities When Race is Not Observed",
+      "doi": "10.1080/01621459.2025.2526695",
+      "citation_note": "",
+      "status": "Already links to publisher page or publisher PDF; retain"
+    },
+    {
+      "id": 12,
+      "citation": "Near-Exponential Savings for Population Mean Estimation with Active Learning, NeurIPS (2025) (co-P.I., with Daniel E. Ho and Julian Morimoto).",
+      "links": [
+        {
+          "title": "Near-Exponential Savings for Population Mean Estimation with Active Learning",
+          "url": "https://arxiv.org/abs/2511.05736"
+        }
+      ],
+      "title": "Near-Exponential Savings for Population Mean Estimation with Active Learning",
+      "doi": "10.52202/085713-4891",
+      "citation_note": "",
+      "status": "Verified final PDF staged",
+      "verified_pdf": {
+        "path": "pdfs/near-exponential-mean-estimation.pdf",
+        "doi": "10.52202/085713-4891",
+        "source_url": "https://proceedings.nips.cc/paper_files/paper/2025/file/d72269b369338b823b07c811af9fb7cf-Paper-Conference.pdf",
+        "sha": "ab8bc1e634aaa599edca76bb5b34bf83685a039a",
+        "sha256": "d5b1a1ed32d269d4d9f75abe9c42f45de0ec0bbc6517f98e42b21dfd92ab16eb",
+        "pages": 31
+      }
+    },
+    {
+      "id": 13,
+      "citation": "Measuring and Mitigating Racial Disparities in Tax Audits (co-P.I., with Hadi Elzayn, Evelyn Smith, Thomas Hertz, Cameron Guage, Arun Ramesh, Robin Fisher, and Daniel E. Ho) (Online Appendix), Quarterly Journal of Economics (2025).",
+      "links": [
+        {
+          "title": "Measuring and Mitigating Racial Disparities in Tax Audits",
+          "url": "https://jacobgoldin.github.io/jg_website/pdfs/tax-audit-disparities.pdf"
+        },
+        {
+          "title": "Online Appendix",
+          "url": "https://jacobgoldin.github.io/jg_website/pdfs/tax-audit-disparities-appendix.pdf"
+        }
+      ],
+      "title": "Measuring and Mitigating Racial Disparities in Tax Audits",
+      "doi": "10.1093/qje/qjae027",
+      "citation_note": "",
+      "status": "Verified final PDF staged",
+      "verified_pdf": {
+        "path": "pdfs/tax-audit-disparities.pdf",
+        "doi": "10.1093/qje/qjae027",
+        "source_url": "https://doi.org/10.1093/qje/qjae027",
+        "sha": "376145c770067ed8a84f7b2679d73820d168595b",
+        "sha256": "293324d67b42c9beac1b535db29c76e8a019e077cb10949122c2ff2d874dca95",
+        "pages": 51
+      }
+    },
+    {
+      "id": 14,
+      "citation": "Enabling Disaggregation of Asian American Subgroups: A Dataset of Wikidata Names for Disparity Estimation, Nature: Scientific Data (co-P.I., with Qiwei Lin, Derek Ouyang, Cameron Guage, Isabel O. Gallegos, and Daniel E. Ho) (2025).",
+      "links": [
+        {
+          "title": "Enabling Disaggregation of Asian American Subgroups: A Dataset of Wikidata Names for Disparity Estimation",
+          "url": "https://www.nature.com/articles/s41597-025-04753-y"
+        }
+      ],
+      "title": "Enabling Disaggregation of Asian American Subgroups: A Dataset of Wikidata Names for Disparity Estimation",
+      "doi": null,
+      "citation_note": "",
+      "status": "Already links to publisher page or publisher PDF; retain"
+    },
+    {
+      "id": 15,
+      "citation": "Quantifying the Uncertainty of Imputed Demographic Disparity Estimates: The Dual-Bootstrap (co-P.I., with Benjamin Lu, Jia Wan, Derek Ouyang, and Daniel E. Ho), in Race, Ethnicity, and Economic Statistics for the 21st Century (CRIW) (ed. Randall Akee, Lawrence F. Katz & Mark Loewenstein), University of Chicago Press (2025).",
+      "links": [
+        {
+          "title": "Quantifying the Uncertainty of Imputed Demographic Disparity Estimates: The Dual-Bootstrap",
+          "url": "https://jacobgoldin.github.io/jg_website/pdfs/dual-bootstrap.pdf"
+        }
+      ],
+      "title": "Quantifying the Uncertainty of Imputed Demographic Disparity Estimates: The Dual-Bootstrap",
+      "doi": null,
+      "citation_note": "",
+      "status": "Existing PDF appears publisher-formatted; retain pending full citation check"
+    },
+    {
+      "id": 16,
+      "citation": "Identifying the Cumulative Causal Effect of a Non-Binary Treatment from a Binary Instrument (with Vedant Vohra), Review of Economics and Statistics (2024).",
+      "links": [
+        {
+          "title": "Identifying the Cumulative Causal Effect of a Non-Binary Treatment from a Binary Instrument",
+          "url": "https://vedant-vohra.github.io/files/cce-draft-080923.pdf"
+        }
+      ],
+      "title": "Identifying the Cumulative Causal Effect of a Non-Binary Treatment from a Binary Instrument",
+      "doi": "10.1162/rest_a_01526",
+      "citation_note": "",
+      "status": "Final publisher PDF needed"
+    },
+    {
+      "id": 17,
+      "citation": "Estimating and Implementing Conventional Fairness Metrics With Probabilistic Protected Features (co-P.I., with Hadi Elzayn, Emily Black, Patrick Vossler, Nathanael Jo, and Daniel E. Ho), IEEE Conference on Secure and Trustworthy Machine Learning (SaTML) (2024).",
+      "links": [
+        {
+          "title": "Estimating and Implementing Conventional Fairness Metrics With Probabilistic Protected Features",
+          "url": "https://arxiv.org/abs/2310.01679"
+        }
+      ],
+      "title": "Estimating and Implementing Conventional Fairness Metrics With Probabilistic Protected Features",
+      "doi": "10.1109/SaTML59370.2024.00016",
+      "citation_note": "Stanford-hosted candidate is arXiv v1, not the IEEE proceedings version.",
+      "status": "Final publisher PDF needed"
+    },
+    {
+      "id": 18,
+      "citation": "How Redundant are Redundant Encodings? Blindness in the Wild and Racial Disparity when Race is Unobserved (co-P.I., with Lingwei Cheng, Isabel O. Gallegos, Derek Ouyang, and Daniel E. Ho), ACM Conference on Fairness, Accountability, and Transparency (FAccT '23) (2023).",
+      "links": [
+        {
+          "title": "How Redundant are Redundant Encodings? Blindness in the Wild and Racial Disparity when Race is Unobserved",
+          "url": "https://dl.acm.org/doi/pdf/10.1145/3593013.3594034"
+        }
+      ],
+      "title": "How Redundant are Redundant Encodings? Blindness in the Wild and Racial Disparity when Race is Unobserved",
+      "doi": "10.1145/3593013.3594034",
+      "citation_note": "",
+      "status": "Already links to publisher page or publisher PDF; retain"
+    },
+    {
+      "id": 19,
+      "citation": "Integrating Reward Maximization and Population Estimation: Sequential Decision-Making for Internal Revenue Service Audit Selection (co-P.I., with Peter Henderson, Ben Chugg, Brandon Anderson, Kristen Altenburger, Alex Turk, John Guyton, and Daniel E. Ho), AAAI Conference on Artificial Intelligence (AAAI-23) (2023).",
+      "links": [
+        {
+          "title": "Integrating Reward Maximization and Population Estimation: Sequential Decision-Making for Internal Revenue Service Audit Selection",
+          "url": "https://arxiv.org/pdf/2204.11910"
+        }
+      ],
+      "title": "Integrating Reward Maximization and Population Estimation: Sequential Decision-Making for Internal Revenue Service Audit Selection",
+      "doi": null,
+      "citation_note": "",
+      "status": "Verified final PDF staged",
+      "verified_pdf": {
+        "path": "pdfs/irs-audit-selection.pdf",
+        "doi": "10.1609/aaai.v37i4.25637",
+        "source_url": "https://ojs.aaai.org/index.php/AAAI/article/download/25637/25409",
+        "sha": "4034d9c87b48f3bac114046e175ebc38f1a14f74",
+        "sha256": "291d6c117a092c1ffc5b348bac3a6129a52b0749ae904a15c11c4b8581d3c918",
+        "pages": 9
+      }
+    },
+    {
+      "id": 20,
+      "citation": "Entropy Regularization for Population Estimation (co-P.I., with Ben Chugg, Peter Henderson, and Daniel E. Ho), AAAI Conference on Artificial Intelligence (AAAI-23) (2023).",
+      "links": [
+        {
+          "title": "Entropy Regularization for Population Estimation",
+          "url": "http://arxiv.org/abs/2208.11747"
+        }
+      ],
+      "title": "Entropy Regularization for Population Estimation",
+      "doi": "10.1609/aaai.v37i10.26438",
+      "citation_note": "",
+      "status": "Verified final PDF staged",
+      "verified_pdf": {
+        "path": "pdfs/entropy-regularization.pdf",
+        "doi": "10.1609/aaai.v37i10.26438",
+        "source_url": "https://ojs.aaai.org/index.php/AAAI/article/download/26438/26210",
+        "sha": "b7ccb0b725a8bba2bc008bc125d968efabfcd6f6",
+        "sha256": "30f2b11c4506ec39c95efc7bdded0b347603ea8cf8a2c3ce591c97a04699abb5",
+        "pages": 7
+      }
+    },
+    {
+      "id": 21,
+      "citation": "Whose Child? Designing Child-Claiming Rules for Safety Net Programs (with Ariel Jurow Kleiman), Yale Law Journal (2022).",
+      "links": [
+        {
+          "title": "Whose Child? Designing Child-Claiming Rules for Safety Net Programs",
+          "url": "https://www.yalelawjournal.org/pdf/131.6_GoldinJurowKleiman_2xwfk32c.pdf"
+        }
+      ],
+      "title": "Whose Child? Designing Child-Claiming Rules for Safety Net Programs",
+      "doi": null,
+      "citation_note": "",
+      "status": "Already links to publisher page or publisher PDF; retain"
+    },
+    {
+      "id": 22,
+      "citation": "Algorithmic Fairness and Vertical Equity: Income Fairness with IRS Tax Audit Models (co-P.I., with Emily Black, Hadi Elzayn, Alexandra Chouldechova, and Daniel E. Ho), ACM Conference on Fairness, Accountability, and Transparency (FAccT '22) (2022).",
+      "links": [
+        {
+          "title": "Algorithmic Fairness and Vertical Equity: Income Fairness with IRS Tax Audit Models",
+          "url": "https://dl.acm.org/doi/10.1145/3531146.3533204"
+        }
+      ],
+      "title": "Algorithmic Fairness and Vertical Equity: Income Fairness with IRS Tax Audit Models",
+      "doi": "10.1145/3531146.3533204",
+      "citation_note": "",
+      "status": "Already links to publisher page or publisher PDF; retain"
+    },
+    {
+      "id": 23,
+      "citation": "Estimating the Net Fiscal Cost of a Child Tax Credit Expansion (with Elaine Maag and Katherine Michelmore), Tax Policy and the Economy (2022).",
+      "links": [
+        {
+          "title": "Estimating the Net Fiscal Cost of a Child Tax Credit Expansion",
+          "url": "https://jacobgoldin.github.io/jg_website/pdfs/child-tax-credit-fiscal-cost.pdf"
+        }
+      ],
+      "title": "Estimating the Net Fiscal Cost of a Child Tax Credit Expansion",
+      "doi": "10.1086/718953",
+      "citation_note": "",
+      "status": "Existing PDF appears publisher-formatted; retain pending full citation check"
+    },
+    {
+      "id": 24,
+      "citation": "Tax Filing and Take-Up: Experimental Evidence on Tax Preparation Outreach and EITC Participation (with Tatiana Homonoff, Rizwan Javaid, and Brenda Schafer), Journal of Public Economics (2022).",
+      "links": [
+        {
+          "title": "Tax Filing and Take-Up: Experimental Evidence on Tax Preparation Outreach and EITC Participation",
+          "url": "https://jacobgoldin.github.io/jg_website/pdfs/tax-filing-and-take-up.pdf"
+        }
+      ],
+      "title": "Tax Filing and Take-Up: Experimental Evidence on Tax Preparation Outreach and EITC Participation",
+      "doi": "10.1016/j.jpubeco.2021.104550",
+      "citation_note": "Published title ends with benefit claiming (not EITC Participation).",
+      "status": "Final publisher PDF needed"
+    },
+    {
+      "id": 25,
+      "citation": "Who Benefits from the Child Tax Credit? (with Katherine Michelmore), National Tax Journal (Forum) (2022).",
+      "links": [
+        {
+          "title": "Who Benefits from the Child Tax Credit?",
+          "url": "https://ssrn.com/abstract=3708961"
+        }
+      ],
+      "title": "Who Benefits from the Child Tax Credit?",
+      "doi": "10.1086/717919",
+      "citation_note": "",
+      "status": "Final publisher PDF needed"
+    },
+    {
+      "id": 26,
+      "citation": "Issuance and Incidence: SNAP Benefit Cycles and Grocery Prices (with Tatiana Homonoff and Katherine Meckel), American Economic Journal: Economic Policy (2022).",
+      "links": [
+        {
+          "title": "Issuance and Incidence: SNAP Benefit Cycles and Grocery Prices",
+          "url": "https://jacobgoldin.github.io/jg_website/pdfs/issuance-and-incidence.pdf"
+        }
+      ],
+      "title": "Issuance and Incidence: SNAP Benefit Cycles and Grocery Prices",
+      "doi": "10.1257/pol.20190777",
+      "citation_note": "",
+      "status": "Final publisher PDF needed"
+    },
+    {
+      "id": 27,
+      "citation": "Optimal Defaults with Normative Ambiguity (with Daniel Reck), Review of Economics and Statistics (2022).",
+      "links": [
+        {
+          "title": "Optimal Defaults with Normative Ambiguity",
+          "url": "https://jacobgoldin.github.io/jg_website/pdfs/optimal-defaults.pdf"
+        }
+      ],
+      "title": "Optimal Defaults with Normative Ambiguity",
+      "doi": "10.1162/rest_a_00945",
+      "citation_note": "",
+      "status": "Verified final PDF staged",
+      "verified_pdf": {
+        "path": "pdfs/optimal-defaults.pdf",
+        "doi": "10.1162/rest_a_00945",
+        "source_url": "https://static1.squarespace.com/static/59ae6e08914e6b4040aa9716/t/61fa6c5e9e733d7445e7d284/1643801695031/defaults.pdf",
+        "sha": "88a088da5bc27ded831d5bb87479cdd75e3a9e83",
+        "sha256": "1e5c387808c8678c8c9e1a1ca39c6c67e5e616ec326c782ed13bfed74786d25d",
+        "pages": 17
+      }
+    },
+    {
+      "id": 28,
+      "citation": "Health Insurance and Mortality: Experimental Evidence from Taxpayer Outreach (with Ithai Lurie and Janet McCubbin), Quarterly Journal of Economics (2021). (Online Appendix)",
+      "links": [
+        {
+          "title": "Health Insurance and Mortality: Experimental Evidence from Taxpayer Outreach",
+          "url": "https://jacobgoldin.github.io/jg_website/pdfs/health-insurance-and-mortality.pdf"
+        },
+        {
+          "title": "Online Appendix",
+          "url": "https://jacobgoldin.github.io/jg_website/pdfs/health-insurance-and-mortality-appendix.pdf"
+        }
+      ],
+      "title": "Health Insurance and Mortality: Experimental Evidence from Taxpayer Outreach",
+      "doi": "10.1093/qje/qjaa029",
+      "citation_note": "",
+      "status": "Final publisher PDF needed"
+    },
+    {
+      "id": 29,
+      "citation": "Sharp Lines and Sliding Scales in Tax Law (with Edward Fox), Tax Law Review (2020).",
+      "links": [
+        {
+          "title": "Sharp Lines and Sliding Scales in Tax Law",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3339656"
+        }
+      ],
+      "title": "Sharp Lines and Sliding Scales in Tax Law",
+      "doi": null,
+      "citation_note": "Michigan repository has a final PDF candidate but automated retrieval is blocked: https://repository.law.umich.edu/facarticles/2251/",
+      "status": "Final publisher PDF needed"
+    },
+    {
+      "id": 30,
+      "citation": "How Much to Save? Decision Costs and Retirement Plan Participation (with Tatiana Homonoff, Richard Patterson, and William Skimmyhorn), Journal of Public Economics (2020).",
+      "links": [
+        {
+          "title": "How Much to Save? Decision Costs and Retirement Plan Participation",
+          "url": "https://jacobgoldin.github.io/jg_website/pdfs/how-much-to-save.pdf"
+        }
+      ],
+      "title": "How Much to Save? Decision Costs and Retirement Plan Participation",
+      "doi": "10.1016/j.jpubeco.2020.104247",
+      "citation_note": "",
+      "status": "Final publisher PDF needed"
+    },
+    {
+      "id": 31,
+      "citation": "Revealed Preference Analysis with Framing Effects (with Daniel Reck). Journal of Political Economy (2020). (Online Appendix)",
+      "links": [
+        {
+          "title": "Revealed Preference Analysis with Framing Effects",
+          "url": "https://jacobgoldin.github.io/jg_website/pdfs/revealed-preference-framing-effects.pdf"
+        },
+        {
+          "title": "Online Appendix",
+          "url": "https://jacobgoldin.github.io/jg_website/pdfs/revealed-preference-framing-effects-appendix.pdf"
+        }
+      ],
+      "title": "Revealed Preference Analysis with Framing Effects",
+      "doi": "10.1086/706860",
+      "citation_note": "",
+      "status": "Verified final PDF staged",
+      "verified_pdf": {
+        "path": "pdfs/revealed-preference-framing-effects.pdf",
+        "doi": "10.1086/706860",
+        "source_url": "https://www.danreck.com/s/GoldinReckJPEfinal.pdf",
+        "sha": "7cd969c7c94c310d515d65da94351ad5860a0797",
+        "sha256": "315c0794f478f40db259bdcd975f42baa53823b3d1701dbf42efc73c2950a62c",
+        "pages": 37
+      }
+    },
+    {
+      "id": 32,
+      "citation": "Communicating Tax Penalties to Delinquent Taxpayers: Evidence from a Field Experiment (with Taylor Cranor, Tatiana Homonoff, and Lindsay Moore).\u00a0 National Tax Journal (2020).",
+      "links": [
+        {
+          "title": "Communicating Tax Penalties to Delinquent Taxpayers: Evidence from a Field Experiment",
+          "url": "https://jacobgoldin.github.io/jg_website/pdfs/communicating-tax-penalties.pdf"
+        }
+      ],
+      "title": "Communicating Tax Penalties to Delinquent Taxpayers: Evidence from a Field Experiment",
+      "doi": "10.17310/ntj.2020.2.02",
+      "citation_note": "",
+      "status": "Final publisher PDF needed"
+    },
+    {
+      "id": 33,
+      "citation": "Does Informing Employees About Tax Benefits Increase Take-Up? Evidence from EITC Notification Laws (with Taylor Cranor and Sarah Kotb),\u00a0 National Tax Journal (2019). (Online Appendix).",
+      "links": [
+        {
+          "title": "Does Informing Employees About Tax Benefits Increase Take-Up? Evidence from EITC Notification Laws",
+          "url": "https://jacobgoldin.github.io/jg_website/pdfs/eitc-notification-laws.pdf"
+        },
+        {
+          "title": "Online Appendix",
+          "url": "https://drive.google.com/open?id=1h0Np3agV_ACL1obI_4vFuNaXxnOJeavg"
+        }
+      ],
+      "title": "Does Informing Employees About Tax Benefits Increase Take-Up? Evidence from EITC Notification Laws",
+      "doi": "10.17310/ntj.2019.2.04",
+      "citation_note": "",
+      "status": "Final publisher PDF needed"
+    },
+    {
+      "id": 34,
+      "citation": "Legal Rasputins? Law Clerk Influence on Voting at the U.S. Supreme Court (with Adam Bonica, Adam Chilton, Kyle Rozema, and Maya Sen). Journal of Law, Economics, and Organization (2019).",
+      "links": [
+        {
+          "title": "Legal Rasputins? Law Clerk Influence on Voting at the U.S. Supreme Court",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2815545"
+        }
+      ],
+      "title": "Legal Rasputins? Law Clerk Influence on Voting at the U.S. Supreme Court",
+      "doi": "10.1093/jleo/ewy024",
+      "citation_note": "",
+      "status": "Final publisher PDF needed"
+    },
+    {
+      "id": 35,
+      "citation": "Tax Benefit Complexity and Take-Up: Lessons from the Earned Income Tax Credit. Tax Law Review (2018).",
+      "links": [
+        {
+          "title": "Tax Benefit Complexity and Take-Up: Lessons from the Earned Income Tax Credit.",
+          "url": "https://jacobgoldin.github.io/jg_website/pdfs/tax-benefit-complexity.pdf"
+        }
+      ],
+      "title": "Tax Benefit Complexity and Take-Up: Lessons from the Earned Income Tax Credit.",
+      "doi": null,
+      "citation_note": "",
+      "status": "Final publisher PDF needed"
+    },
+    {
+      "id": 36,
+      "citation": "Raising the Stakes: Experimental Evidence on the Robustness of Taxpayer Mistakes (with Naomi Feldman and Tatiana Homonoff).\u00a0 National Tax Journal (2018).",
+      "links": [
+        {
+          "title": "Raising the Stakes: Experimental Evidence on the Robustness of Taxpayer Mistakes",
+          "url": "https://jacobgoldin.github.io/jg_website/pdfs/raising-the-stakes.pdf"
+        }
+      ],
+      "title": "Raising the Stakes: Experimental Evidence on the Robustness of Taxpayer Mistakes",
+      "doi": null,
+      "citation_note": "Published title uses Endogeneity of Taxpayer Mistakes; website currently says Robustness.",
+      "status": "Final publisher PDF needed"
+    },
+    {
+      "id": 37,
+      "citation": "Beyond Head of Household: Rethinking the Taxation of Single Parents (with Zachary Liscow). Tax Law Review (2018).",
+      "links": [
+        {
+          "title": "Beyond Head of Household: Rethinking the Taxation of Single Parents",
+          "url": "https://jacobgoldin.github.io/jg_website/pdfs/beyond-head-of-household.pdf"
+        }
+      ],
+      "title": "Beyond Head of Household: Rethinking the Taxation of Single Parents",
+      "doi": null,
+      "citation_note": "",
+      "status": "Final publisher PDF needed"
+    },
+    {
+      "id": 38,
+      "citation": "Rationalizations and Mistakes: Optimal Policy with Normative Ambiguity (with Daniel Reck). American Economic Association: Papers & Proceedings (2018).",
+      "links": [
+        {
+          "title": "Rationalizations and Mistakes: Optimal Policy with Normative Ambiguity",
+          "url": "https://pubs.aeaweb.org/doi/pdf/10.1257/pandp.20181042"
+        }
+      ],
+      "title": "Rationalizations and Mistakes: Optimal Policy with Normative Ambiguity",
+      "doi": "10.1257/pandp.20181042",
+      "citation_note": "",
+      "status": "Already links to publisher page or publisher PDF; retain"
+    },
+    {
+      "id": 39,
+      "citation": "The Effects of Pretrial Detention on Conviction, Future Crime, and Employment: Evidence from Randomly Assigned Judges (with Will Dobbie and Crystal Yang). American Economic Review (2018).",
+      "links": [
+        {
+          "title": "The Effects of Pretrial Detention on Conviction, Future Crime, and Employment: Evidence from Randomly Assigned Judges",
+          "url": "https://jacobgoldin.github.io/jg_website/pdfs/effects-of-pretrial-detention.pdf"
+        }
+      ],
+      "title": "The Effects of Pretrial Detention on Conviction, Future Crime, and Employment: Evidence from Randomly Assigned Judges",
+      "doi": "10.1257/aer.20161503",
+      "citation_note": "",
+      "status": "Final publisher PDF needed"
+    },
+    {
+      "id": 40,
+      "citation": "The Analysis of Survey Data with Framing Effects (with Daniel Reck). The American Statistician (2018).",
+      "links": [
+        {
+          "title": "The Analysis of Survey Data with Framing Effects",
+          "url": "https://jacobgoldin.github.io/jg_website/pdfs/survey-data-framing-effects.pdf"
+        }
+      ],
+      "title": "The Analysis of Survey Data with Framing Effects",
+      "doi": "10.1080/00031305.2017.1407358",
+      "citation_note": "Final issue is American Statistician 73(3), 264-272 (2019); website says 2018, the online-publication year.",
+      "status": "Final publisher PDF needed"
+    },
+    {
+      "id": 41,
+      "citation": "Participation in the IRS Free File Program, Tax Notes (2017).",
+      "links": [
+        {
+          "title": "Participation in the IRS Free File Program",
+          "url": "https://jacobgoldin.github.io/jg_website/pdfs/irs-free-file-participation.pdf"
+        }
+      ],
+      "title": "Participation in the IRS Free File Program",
+      "doi": null,
+      "citation_note": "",
+      "status": "Existing PDF appears publisher-formatted; retain pending full citation check"
+    },
+    {
+      "id": 42,
+      "citation": "Libertarian Quasi Paternalism. Missouri Law Review (symposium contribution) (2017).",
+      "links": [
+        {
+          "title": "Libertarian Quasi Paternalism",
+          "url": "https://jacobgoldin.github.io/jg_website/pdfs/libertarian-quasi-paternalism.pdf"
+        }
+      ],
+      "title": "Libertarian Quasi Paternalism",
+      "doi": null,
+      "citation_note": "",
+      "status": "Existing PDF appears publisher-formatted; retain pending full citation check"
+    },
+    {
+      "id": 43,
+      "citation": "Retirement Contribution Rate Nudges and Plan Participation: Evidence from a Field Experiment (with Tatiana Homonoff and William Tucker). American Economic Review: Papers & Proceedings (2017).",
+      "links": [
+        {
+          "title": "Retirement Contribution Rate Nudges and Plan Participation: Evidence from a Field Experiment",
+          "url": "https://jacobgoldin.github.io/jg_website/pdfs/retirement-contribution-rate-nudges.pdf"
+        }
+      ],
+      "title": "Retirement Contribution Rate Nudges and Plan Participation: Evidence from a Field Experiment",
+      "doi": "10.1257/aer.p20171059",
+      "citation_note": "",
+      "status": "Final publisher PDF needed"
+    },
+    {
+      "id": 44,
+      "citation": "Consumer Borrowing After Payday Loan Bans (with Neil Bhutta and Tatiana Homonoff), Journal of Law and Economics (2016).",
+      "links": [
+        {
+          "title": "Consumer Borrowing After Payday Loan Bans",
+          "url": "https://jacobgoldin.github.io/jg_website/pdfs/consumer-borrowing-payday-loan-bans.pdf"
+        }
+      ],
+      "title": "Consumer Borrowing After Payday Loan Bans",
+      "doi": "10.1086/686033",
+      "citation_note": "",
+      "status": "Final publisher PDF needed"
+    },
+    {
+      "id": 45,
+      "citation": "Defaults, Mandates, and Taxes: Policy Design with Active and Passive Decision-Makers (with Nicholas Lawson), American Law and Economics Review (2016).",
+      "links": [
+        {
+          "title": "Defaults, Mandates, and Taxes: Policy Design with Active and Passive Decision-Makers",
+          "url": "https://jacobgoldin.github.io/jg_website/pdfs/defaults-mandates-and-taxes.pdf"
+        }
+      ],
+      "title": "Defaults, Mandates, and Taxes: Policy Design with Active and Passive Decision-Makers",
+      "doi": "10.1093/aler/ahw007",
+      "citation_note": "",
+      "status": "Final publisher PDF needed"
+    },
+    {
+      "id": 46,
+      "citation": "Measuring Judicial Ideology Using Law Clerk Hiring (with Adam Bonica, Adam Chilton, Kyle Rozema, and Maya Sen),\u00a0 American Law and Economics Review (2016).",
+      "links": [
+        {
+          "title": "Measuring Judicial Ideology Using Law Clerk Hiring",
+          "url": "https://jacobgoldin.github.io/jg_website/pdfs/measuring-judicial-ideology.pdf"
+        }
+      ],
+      "title": "Measuring Judicial Ideology Using Law Clerk Hiring",
+      "doi": "10.1093/aler/ahw013",
+      "citation_note": "Final issue is ALER 19(1), 129-161 (2017); website says 2016, the online-publication year.",
+      "status": "Final publisher PDF needed"
+    },
+    {
+      "id": 47,
+      "citation": "The Political Ideologies of Law Clerks (with Adam Bonica, Adam Chilton, Kyle Rozema, and Maya Sen), American Law and Economics Review (2016).",
+      "links": [
+        {
+          "title": "The Political Ideologies of Law Clerks",
+          "url": "https://jacobgoldin.github.io/jg_website/pdfs/political-ideologies-of-law-clerks.pdf"
+        }
+      ],
+      "title": "The Political Ideologies of Law Clerks",
+      "doi": "10.1093/aler/ahw012",
+      "citation_note": "Final issue is ALER 19(1), 96-128 (2017); website says 2016, the online-publication year.",
+      "status": "Final publisher PDF needed"
+    },
+    {
+      "id": 48,
+      "citation": "Which Way to Nudge? Uncovering Preferences in the Behavioral Age, Yale Law Journal (2015)",
+      "links": [
+        {
+          "title": "Which Way to Nudge? Uncovering Preferences in the Behavioral Age,",
+          "url": "https://jacobgoldin.github.io/jg_website/pdfs/which-way-to-nudge.pdf"
+        }
+      ],
+      "title": "Which Way to Nudge? Uncovering Preferences in the Behavioral Age,",
+      "doi": null,
+      "citation_note": "",
+      "status": "Existing PDF appears publisher-formatted; retain pending full citation check"
+    },
+    {
+      "id": 49,
+      "citation": "Optimal Tax Salience, Journal of Public Economics (2015)",
+      "links": [
+        {
+          "title": "Optimal Tax Salience",
+          "url": "https://jacobgoldin.github.io/jg_website/pdfs/optimal-tax-salience.pdf"
+        }
+      ],
+      "title": "Optimal Tax Salience",
+      "doi": "10.1016/j.jpubeco.2015.09.005",
+      "citation_note": "",
+      "status": "Verified final PDF staged",
+      "verified_pdf": {
+        "path": "pdfs/optimal-tax-salience.pdf",
+        "doi": "10.1016/j.jpubeco.2015.09.005",
+        "source_url": "https://law.stanford.edu/wp-content/uploads/2016/06/Optimal-tax-salience-2015.pdf",
+        "sha": "82d12234e4a007814987b856eb51d1ada28d447a",
+        "sha256": "5626783cb9cfd98d38fc37409f659a67b282aab532775486e5482d214642c95c",
+        "pages": 9
+      }
+    },
+    {
+      "id": 50,
+      "citation": "Smoke Gets in Your Eyes: Cigarette Tax Salience and Regressivity (with Tatiana Homonoff), American Economic Journal: Economic Policy (2013)",
+      "links": [
+        {
+          "title": "Smoke Gets in Your Eyes: Cigarette Tax Salience and Regressivity",
+          "url": "https://jacobgoldin.github.io/jg_website/pdfs/cigarette-tax-salience.pdf"
+        }
+      ],
+      "title": "Smoke Gets in Your Eyes: Cigarette Tax Salience and Regressivity",
+      "doi": "10.1257/pol.5.1.302",
+      "citation_note": "",
+      "status": "Existing PDF appears publisher-formatted; retain pending full citation check"
+    },
+    {
+      "id": 51,
+      "citation": "Tax Expenditure Salience (with Yair Listokin), American Law and Economics Review (2013)",
+      "links": [
+        {
+          "title": "Tax Expenditure Salience",
+          "url": "https://jacobgoldin.github.io/jg_website/pdfs/tax-expenditure-salience.pdf"
+        }
+      ],
+      "title": "Tax Expenditure Salience",
+      "doi": null,
+      "citation_note": "",
+      "status": "Existing PDF appears publisher-formatted; retain pending full citation check"
+    },
+    {
+      "id": 52,
+      "citation": "Reconsidering Substance Versus Form in PPL v. Commissioner, Tax Notes (2012)",
+      "links": [
+        {
+          "title": "Reconsidering Substance Versus Form in PPL v. Commissioner",
+          "url": "https://drive.google.com/open?id=1GYfLOL4nieWXkBr_SMHz8NMh2U-KsATv"
+        }
+      ],
+      "title": "Reconsidering Substance Versus Form in PPL v. Commissioner",
+      "doi": null,
+      "citation_note": "",
+      "status": "Further check required"
+    },
+    {
+      "id": 53,
+      "citation": "Sales Tax Not Included: Designing Commodity Taxes for Inattentive Consumers, Yale Law Journal (Note) (2012)",
+      "links": [
+        {
+          "title": "Sales Tax Not Included: Designing Commodity Taxes for Inattentive Consumers",
+          "url": "https://jacobgoldin.github.io/jg_website/pdfs/sales-tax-not-included.pdf"
+        }
+      ],
+      "title": "Sales Tax Not Included: Designing Commodity Taxes for Inattentive Consumers",
+      "doi": null,
+      "citation_note": "",
+      "status": "Existing PDF appears publisher-formatted; retain pending full citation check"
+    }
+  ]
+}

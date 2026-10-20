@@ -26,16 +26,32 @@
     {
       "source": "Child Claiming 12-11-24.pdf",
       "path": "pdfs/claiming-of-children.pdf",
-      "sha": "8868e61ef46816bae52c1455b9e5fe63943788d3",
-      "size": 644586,
-      "url": "https://jacobgoldin.github.io/jg_website/pdfs/claiming-of-children.pdf"
+      "sha": "7b4e6bbc0a1067fb5f927b114ba5d341920b6647",
+      "size": 465592,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/claiming-of-children.pdf",
+      "original_migration_blob_sha": "8868e61ef46816bae52c1455b9e5fe63943788d3",
+      "original_migration_source": "Child Claiming 12-11-24.pdf",
+      "version": "version-of-record",
+      "doi": "10.1086/736708",
+      "source_url": "https://doi.org/10.1086/736708",
+      "retrieved": "2026-10-20",
+      "sha256": "a7af86c17699a32143a8a4cf5aafcc647ced61e4b18c54221afd15d0d10cbbb9",
+      "pages": 21
     },
     {
       "source": "audit disparities - main_text (final).pdf",
       "path": "pdfs/tax-audit-disparities.pdf",
-      "sha": "d347f151b6ba4023b00c3443868b039e326d2af4",
-      "size": 1184136,
-      "url": "https://jacobgoldin.github.io/jg_website/pdfs/tax-audit-disparities.pdf"
+      "sha": "376145c770067ed8a84f7b2679d73820d168595b",
+      "size": 1532664,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/tax-audit-disparities.pdf",
+      "original_migration_blob_sha": "d347f151b6ba4023b00c3443868b039e326d2af4",
+      "original_migration_source": "audit disparities - main_text (final).pdf",
+      "version": "version-of-record",
+      "doi": "10.1093/qje/qjae027",
+      "source_url": "https://doi.org/10.1093/qje/qjae027",
+      "retrieved": "2026-10-20",
+      "sha256": "293324d67b42c9beac1b535db29c76e8a019e077cb10949122c2ff2d874dca95",
+      "pages": 51
     },
     {
       "source": "audit disparities - appendix (final).pdf",
@@ -75,9 +91,17 @@
     {
       "source": "defaults 12-14-18.pdf",
       "path": "pdfs/optimal-defaults.pdf",
-      "sha": "6da45be9712021548bcab7423abdf8a4ff8c080e",
-      "size": 998187,
-      "url": "https://jacobgoldin.github.io/jg_website/pdfs/optimal-defaults.pdf"
+      "sha": "88a088da5bc27ded831d5bb87479cdd75e3a9e83",
+      "size": 527217,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/optimal-defaults.pdf",
+      "original_migration_blob_sha": "6da45be9712021548bcab7423abdf8a4ff8c080e",
+      "original_migration_source": "defaults 12-14-18.pdf",
+      "version": "version-of-record",
+      "doi": "10.1162/rest_a_00945",
+      "source_url": "https://static1.squarespace.com/static/59ae6e08914e6b4040aa9716/t/61fa6c5e9e733d7445e7d284/1643801695031/defaults.pdf",
+      "retrieved": "2026-10-20",
+      "sha256": "1e5c387808c8678c8c9e1a1ca39c6c67e5e616ec326c782ed13bfed74786d25d",
+      "pages": 17
     },
     {
       "source": "GLM 08-24-20 (main).pdf",
@@ -103,9 +127,17 @@
     {
       "source": "Goldin Reck 3-22-19.pdf",
       "path": "pdfs/revealed-preference-framing-effects.pdf",
-      "sha": "0ace37b0bdc1c7bc629aa161e2680ab5c4b8c9d3",
-      "size": 724184,
-      "url": "https://jacobgoldin.github.io/jg_website/pdfs/revealed-preference-framing-effects.pdf"
+      "sha": "7cd969c7c94c310d515d65da94351ad5860a0797",
+      "size": 1557154,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/revealed-preference-framing-effects.pdf",
+      "original_migration_blob_sha": "0ace37b0bdc1c7bc629aa161e2680ab5c4b8c9d3",
+      "original_migration_source": "Goldin Reck 3-22-19.pdf",
+      "version": "version-of-record",
+      "doi": "10.1086/706860",
+      "source_url": "https://www.danreck.com/s/GoldinReckJPEfinal.pdf",
+      "retrieved": "2026-10-20",
+      "sha256": "315c0794f478f40db259bdcd975f42baa53823b3d1701dbf42efc73c2950a62c",
+      "pages": 37
     },
     {
       "source": "GR online appendix 3-22-19 (revised).pdf",
@@ -222,9 +254,17 @@
     {
       "source": "Optimal Tax Salience.pdf",
       "path": "pdfs/optimal-tax-salience.pdf",
-      "sha": "65de74aa9faa17c236a5015e74c604196ef47166",
-      "size": 275034,
-      "url": "https://jacobgoldin.github.io/jg_website/pdfs/optimal-tax-salience.pdf"
+      "sha": "82d12234e4a007814987b856eb51d1ada28d447a",
+      "size": 306302,
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/optimal-tax-salience.pdf",
+      "original_migration_blob_sha": "65de74aa9faa17c236a5015e74c604196ef47166",
+      "original_migration_source": "Optimal Tax Salience.pdf",
+      "version": "version-of-record",
+      "doi": "10.1016/j.jpubeco.2015.09.005",
+      "source_url": "https://law.stanford.edu/wp-content/uploads/2016/06/Optimal-tax-salience-2015.pdf",
+      "retrieved": "2026-10-20",
+      "sha256": "5626783cb9cfd98d38fc37409f659a67b282aab532775486e5482d214642c95c",
+      "pages": 9
     },
     {
       "source": "Goldin and Homonoff 2013.pdf",
@@ -246,6 +286,58 @@
       "sha": "b097ab60feecb3c075873f1e47be9c01a7b150ca",
       "size": 291627,
       "url": "https://jacobgoldin.github.io/jg_website/pdfs/sales-tax-not-included.pdf"
+    },
+    {
+      "path": "pdfs/hidden-errors-property-records.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/hidden-errors-property-records.pdf",
+      "source": "https://ojs.aaai.org/index.php/AIES/article/download/43314/50874",
+      "sha": "9e4df5ca41e087508fef0122610c12ec928863ae",
+      "size": 738104,
+      "version": "version-of-record",
+      "doi": "10.1609/aies.v9i4.43314",
+      "source_url": "https://ojs.aaai.org/index.php/AIES/article/download/43314/50874",
+      "retrieved": "2026-10-20",
+      "sha256": "914bc1f4ce32d2eb95749d5d95881f88da7fa60e1dc7da49c0ffbfd139d56983",
+      "pages": 13
+    },
+    {
+      "path": "pdfs/near-exponential-mean-estimation.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/near-exponential-mean-estimation.pdf",
+      "source": "https://proceedings.nips.cc/paper_files/paper/2025/file/d72269b369338b823b07c811af9fb7cf-Paper-Conference.pdf",
+      "sha": "ab8bc1e634aaa599edca76bb5b34bf83685a039a",
+      "size": 9079247,
+      "version": "version-of-record",
+      "doi": "10.52202/085713-4891",
+      "source_url": "https://proceedings.nips.cc/paper_files/paper/2025/file/d72269b369338b823b07c811af9fb7cf-Paper-Conference.pdf",
+      "retrieved": "2026-10-20",
+      "sha256": "d5b1a1ed32d269d4d9f75abe9c42f45de0ec0bbc6517f98e42b21dfd92ab16eb",
+      "pages": 31
+    },
+    {
+      "path": "pdfs/irs-audit-selection.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/irs-audit-selection.pdf",
+      "source": "https://ojs.aaai.org/index.php/AAAI/article/download/25637/25409",
+      "sha": "4034d9c87b48f3bac114046e175ebc38f1a14f74",
+      "size": 13728990,
+      "version": "version-of-record",
+      "doi": "10.1609/aaai.v37i4.25637",
+      "source_url": "https://ojs.aaai.org/index.php/AAAI/article/download/25637/25409",
+      "retrieved": "2026-10-20",
+      "sha256": "291d6c117a092c1ffc5b348bac3a6129a52b0749ae904a15c11c4b8581d3c918",
+      "pages": 9
+    },
+    {
+      "path": "pdfs/entropy-regularization.pdf",
+      "url": "https://jacobgoldin.github.io/jg_website/pdfs/entropy-regularization.pdf",
+      "source": "https://ojs.aaai.org/index.php/AAAI/article/download/26438/26210",
+      "sha": "b7ccb0b725a8bba2bc008bc125d968efabfcd6f6",
+      "size": 864214,
+      "version": "version-of-record",
+      "doi": "10.1609/aaai.v37i10.26438",
+      "source_url": "https://ojs.aaai.org/index.php/AAAI/article/download/26438/26210",
+      "retrieved": "2026-10-20",
+      "sha256": "30f2b11c4506ec39c95efc7bdded0b347603ea8cf8a2c3ce591c97a04699abb5",
+      "pages": 7
     }
   ]
 }
